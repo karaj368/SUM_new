@@ -1674,7 +1674,7 @@ Academics Section Area CSS
   padding: 15px 20px;
   display: block;
   background-color: var(--secounderyColor);
-  color: var(--blackColor);
+  color: black;
   font-family: 'Lexend', sans-serif;
   font-size: 16px;
   font-weight: 700;
