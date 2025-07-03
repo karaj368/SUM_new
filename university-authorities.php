@@ -68,15 +68,23 @@
                          <div class="ac-contact">
                             <span class="text-black">Get to Know Shobhit</span>
                         </div>
-                            <ul>
-                                <li><a href="university-overview.php">University Overview</a></li>
-                                <li><a class="active" href="believe-vision-and-mission.php">Believe, Vision & Mission</a></li>
-                                <li><a href="our-inspirer.php  ">Our Inspirer</a></li>
-                                <li><a href="historical-milestones.php">Historical Milestones</a></li>
-                                <li><a href="university-leadership.php">University Leadership</a></li>
-                                <li><a href="https://www.shobhituniversity.ac.in/pdf/organogram-university.pdf" target="_blank">University Organogram</a></li>
-                                <li><a href="our-logo.php">Our Logo</a></li>
-                            </ul>
+                           <ul>
+
+                            <li><a href="ranking-and-awards.php" title="Ranking and Awards">Ranking
+                                and Awards</a></li>
+                            <li><a href="recognitions-and-approvals.php" title="Recognitions and Approvals">Recognitions and Approvals</a></li>
+                            <li><a href="our-partners.php" title="Our Partners">Our
+                                Partners</a>
+                            </li>
+                            <li><a class="active" href="university-authorities.php" title="University Authorities">University Authorities</a></li>
+                            <li><a href="blogs.php" title="University Blogs">Blogs</a>
+                            </li>
+                            <li><a href="news-and-events.php" title="News &amp; Events">News &amp;
+                                Events</a></li>
+                            <li><a href="sum-iqac.php" title="IQAC">IQAC</a></li>
+                            <li><a href="sum-econtent.php" title="IQAC-e-Content">e-Content</a>
+                            </li>
+                          </ul>
                         </div>
                         <div class="ac-contact">
                             <span class="text-black">Quick Links</span>
