@@ -5,16 +5,16 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Our Logo | Shobhit University</title>
-    
-<?php include 'header.php';?>
+    <title>Annual Reports - About University | Shobhit University</title>
+ 
 
+   <?php include 'header.php';?>
     <!-- Start Section Banner Area -->
     <section class="section-banner bg-1">
         <div class="container">
             <div class="banner-spacing">
                 <div class="section-info">
-                    <h2 data-aos="fade-up" data-aos-delay="100">Our Logo</h2>
+                    <h2 data-aos="fade-up" data-aos-delay="100">Annual Reports </h2>
                     
                 </div>
             </div>
@@ -28,25 +28,32 @@
             <div class="row">
                 
                 <div class="col-lg-9">
-                    <iframe width="100%" height="450" src="https://www.youtube.com/embed/-GHF04WlABU?si=2etJR8gCiiD2boUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <div class="ac-overview">
-                        <div class="pera-dec pt-5">
-                            <h3>Our Logo</h3>
-                            <p>The emblem of Shobhit University is not just a logo; it's a poetic compass that guides our collective voyage through the seas of knowledge.</p>
-                            <p>Within its embrace lies the green of our globe, a testament to growth, vitality, and the spread of prosperity through knowledge.</p>
-                            <p>Central to this vision is the flame, represented by 'U' and 'S'—the University and Shobhit—burning with the saffron vigor of valor and the purity of spirit, much like the tricolor of our flag.</p>
-                            <p>This insignia is a promise, a guiding light to learners and leaders alike, inspiring a union of intellect and spirit, as echoed in the sacred Sanskrit, "तेजस्वि नावधीतमस्तु" (Tejasvi navadhitamastu), imploring, "May our learning be brilliant and effective."</p>
-                            <p>The Shobhit University logo is conceived by Shri Kunwar Shekhar Vijendra and designed by Shri Raashid Rangrez.</p>
-                         </div>
+                        <div class="pera-dec">
+                            <h2>Annual Reports</h2>
+                            <ul>
+
+                      <li class="mb-2 fs-6"><a href="https://www.shobhituniversity.ac.in/pdf/annual-repts/Annual-Report-2016-2017-web.pdf" target="_blank">Annual Reports 2016-17</a></li>
+                      
+                      <li class="mb-2 fs-6"><a href="https://www.shobhituniversity.ac.in/pdf/annual-repts/ANNUAL-REPORT-2017-18-web.pdf" target="_blank">Annual Reports 2017-18</a></li>
+                      
+                      <li class="mb-2 fs-6"><a href="https://www.shobhituniversity.ac.in/pdf/annual-repts/ANNUAL-REPORT-2018-19-web.pdf" target="_blank">Annual Reports 2018-19</a></li>
+                      
+                      <li class="mb-2 fs-6"><a href="https://www.shobhituniversity.ac.in/pdf/annual-repts/ANNUAL-REPORT-2019-20-web.pdf" target="_blank">Annual Reports 2019-20</a></li>
+                      
+                      <li class="mb-2 fs-6"><a href="https://www.shobhituniversity.ac.in/pdf/annual-repts/ANNUAL-REPORT-2020-21-web.pdf" target="_blank">Annual Reports 2020-21</a></li>
+                      
+
+                      </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    
                     <div class="academics-left">
                         <div class="ac-category">
-                           <div class="ac-contact">
+                         <div class="ac-contact">
                             <span class="text-black">Get to Know Shobhit</span>
-                            </div>
+                        </div>
                             <ul>
                                 <li><a href="university-overview.php">University Overview</a></li>
                                 <li><a href="believe-vision-and-mission.php">Believe, Vision & Mission</a></li>
@@ -54,8 +61,8 @@
                                 <li><a href="historical-milestones.php">Historical Milestones</a></li>
                                 <li><a href="university-leadership.php">University Leadership</a></li>
                                 <li><a href="https://www.shobhituniversity.ac.in/pdf/organogram-university.pdf" target="_blank">University Organogram</a></li>
-                                <li><a class="active" href="our-logo.php">Our Logo</a></li>
-                                <li><a href="ann-repts.php">Annual Reports</a></li>
+                                <li><a href="our-logo.php">Our Logo</a></li>
+                                <li><a class="active" href="ann-repts.php">Annual Reports</a></li>
                             </ul>
                         </div>
                         <div class="ac-contact">
@@ -69,7 +76,6 @@
         </div>
     </section>
     <!-- End About Us Area -->
-   
 
     <!-- Campus  -->
     <section class="campus-area ptb-100">
@@ -83,8 +89,6 @@
           </div>
 
           <div class="campus-slider owl-carousel owl-theme owl-loaded owl-drag">
-            
-            
             
           <div class="owl-stage-outer owl-height" style="height: 487.75px;"><div class="owl-stage" style="transition: 1s; width: 6650px; transform: translate3d(-2375px, 0px, 0px);"><div class="owl-item cloned" style="width: 930px; margin-right: 20px;"><div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
               <img src="assets/img/all-img/campus-image-2.png" alt="image">
