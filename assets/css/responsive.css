@@ -935,6 +935,9 @@
     width: 100%;
     border-radius: 0;
   }
+  .graduate-events .content-items .image {
+    padding: 0px;
+}
 
 
   .subscribe-area-2 {
@@ -1196,11 +1199,8 @@
     position: initial;
   }
   .graduate-events .content-items .content {
-    padding-right: 30px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 30px;
-    margin-bottom: 30px;
+   padding: 20px 20px;
+    margin-bottom: 0px;
   }
   .graduate-events .content-items .content h2 {
     font-size: 25px;

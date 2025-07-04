@@ -68,6 +68,7 @@
                                 <li><a href="university-leadership.php">University Leadership</a></li>
                                 <li><a href="https://www.shobhituniversity.ac.in/pdf/organogram-university.pdf" target="_blank">University Organogram</a></li>
                                 <li><a href="our-logo.php">Our Logo</a></li>
+                                <li><a href="ann-repts.php">Annual Reports</a></li>
                             </ul>
                         </div>
                         <div class="ac-contact">

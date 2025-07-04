@@ -1844,7 +1844,7 @@ Academics Section Area CSS
 
 .graduate-events .content-items .content {
   position: initial;
-  max-width: 615px;
+  max-width: 750px;
   padding-right: 230px;
   padding-top: 120px;
   padding-bottom: 120px;
@@ -1866,6 +1866,7 @@ Academics Section Area CSS
 .graduate-events .content-items .image {
   position: absolute;
   content: '';
+  max-width: 450px;
   top: 15%;
   right: 0;
 }
