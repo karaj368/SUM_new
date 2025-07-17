@@ -2,7 +2,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>News & Events | Shobhit University</title>
+    <title>Seminar & Conferences | Shobhit University</title>
  
 
    <?php include 'header.php';?>
@@ -11,7 +11,7 @@
         <div class="container">
             <div class="banner-spacing">
                 <div class="section-info">
-                    <h2 data-aos="fade-up" data-aos-delay="100"> News & Events </h2>
+                    <h2 data-aos="fade-up" data-aos-delay="100"> Seminar & Conferences </h2>
                     
                 </div>
             </div>
@@ -204,9 +204,9 @@
                                 Network</a></li>
                             <li><a href="notable-alumni.php" title="Notable Alumni">Notable
                                 Alumni</a></li>
-                            <li><a href="seminar-and-conferences.php" title="Seminar &amp; Conferences">Seminar &amp; Conferences </a></li>
-                            <li><a href="/student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
-                            <li><a href="/library-and-learning-centre.php" title="Notable Alumni">Library &amp; Learning
+                            <li><a class="active" href="seminar-and-conferences.php" title="Seminar &amp; Conferences">Seminar &amp; Conferences </a></li>
+                            <li><a href="student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
+                            <li><a href="library-and-learning-centre.php" title="Notable Alumni">Library &amp; Learning
                                 Centre</a></li>
                           </ul>
                         

@@ -164,8 +164,8 @@
                                 Alumni</a></li>
                             <li><a href="seminar-and-conferences.php"
                                 title="Seminar &amp; Conferences">Seminar &amp; Conferences </a></li>
-                            <li><a href="/student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
-                            <li><a href="/library-and-learning-centre.php" title="Notable Alumni">Library &amp; Learning
+                            <li><a href="student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
+                            <li><a href="library-and-learning-centre.php" title="Notable Alumni">Library &amp; Learning
                                 Centre</a></li>
                           </ul>
                         </div>
@@ -191,7 +191,7 @@
                             <li><a href="Inspirer_Day_2025/"
                                 target="_blank">Inspirer Day Celebrations 2025</a></li>
 
-                            <!-- start sub menu item  -->
+                            <!-- start sub menu item -->
 
                             <!-- end sub menu item  -->
 
@@ -328,15 +328,13 @@
                                               <h3>
                                                 <a href="#" title="B.Sc. Hons Nutrition &amp; Dietetics (3 Yrs)">B.Sc.
                                                   Hons Nutrition
-                                                  &amp; Dietetics (3
-                                                  Yrs)</a>
+                                                  &amp; Dietetics (3 Yrs)</a>
                                               </h3>
                                             </li>
                                             <li>
                                               <h3>
                                                 <a href="#" title="B.Sc. Hons Biotechnology (3 Yrs)">B.Sc. Hons
-                                                  Biotechnology (3
-                                                  Yrs)</a>
+                                                  Biotechnology (3 Yrs)</a>
                                               </h3>
                                             </li>
                                             <li>
@@ -349,8 +347,7 @@
                                             <li>
                                               <h3>
                                                 <a href="#" title="B.Sc. Hons Biomedical Science  (3 Yrs)">B.Sc. Hons
-                                                  Biomedical
-                                                  Science (3 Yrs)</a>
+                                                  Biomedical Science (3 Yrs)</a>
                                               </h3>
                                             </li>
                                           </ul>
@@ -358,8 +355,7 @@
                                             <li>
                                               <h3>
                                                 <a href="#" title="B.Sc. Hons Computer Science (3 Yrs)">B.Sc. Hons
-                                                  Computer Science (3
-                                                  Yrs)
+                                                  Computer Science (3 Yrs)
                                                 </a>
                                               </h3>
                                             </li>
@@ -376,14 +372,12 @@
                                             </li>
                                             <li>
                                               <h3>
-                                                <a href="#" title="B.Com. LL.B. Hons (5 Years)">B.Com. LL.B. Hons (5
-                                                  Years)</a>
+                                                <a href="#" title="B.Com. LL.B. Hons (5 Years)">B.Com. LL.B. Hons (5 Years)</a>
                                               </h3>
                                             </li>
                                             <li>
                                               <h3>
-                                                <a href="#" title="BBA LL.B. Hons (5 Years)">BBA LL.B. Hons (5
-                                                  Years)</a>
+                                                <a href="#" title="BBA LL.B. Hons (5 Years)">BBA LL.B. Hons (5 Years)</a>
                                               </h3>
                                             </li>
                                             <li>
@@ -394,8 +388,7 @@
                                             </li>
                                             <li>
                                               <h3>
-                                                <a href="#" title="BCA AI and Machine Learning">BCA AI and Machine
-                                                  Learning</a>
+                                                <a href="#" title="BCA AI and Machine Learning">BCA AI and Machine Learning</a>
                                               </h3>
                                             </li>
                                             <li>
@@ -410,9 +403,7 @@
                                             </li>
                                             <li>
                                               <h3>
-                                                <a href="#" title="BCA Data Sc. &amp; Business Analytics">BCA Data Sc.
-                                                  &amp; Business
-                                                  Analytics</a>
+                                                <a href="#" title="BCA Data Sc. &amp; Business Analytics">BCA Data Sc. &amp; Business Analytics</a>
                                               </h3>
                                             </li>
                                           </ul>
@@ -438,9 +429,7 @@
                                             </li>
                                             <li>
                                               <h3>
-                                                <a href="#" title="BA Government &amp; Administration">BA Hons Govt
-                                                  &amp;
-                                                  Administration</a>
+                                                <a href="#" title="BA Government &amp; Administration">BA Hons Govt &amp; Administration</a>
                                               </h3>
                                             </li>
                                             <li>
@@ -460,17 +449,13 @@
                                             </li>
                                             <li>
                                               <h3>
-                                                <a href="#" title="BBA Banking Finance and Insurance">BBA Banking
-                                                  Finance &amp;
-                                                  Insurance</a>
+                                                <a href="#" title="BBA Banking Finance and Insurance">BBA Banking Finance &amp; Insurance</a>
                                               </h3>
                                             </li>
                                             <!--<li><a href="#" title="BBA Business Analytics">BBA Business Analytics</a></li>-->
                                             <li>
                                               <h3>
-                                                <a href="#" title="BBA Global Business &amp; Management">BBA Global
-                                                  Business &amp;
-                                                  Management</a>
+                                                <a href="#" title="BBA Global Business &amp; Management">BBA Global Business &amp; Management</a>
                                               </h3>
                                             </li>
                                           </ul>
@@ -497,15 +482,12 @@
                                           <ul>
                                             <li>
                                               <h3>
-                                                <a href="#" title="M.Tech. Computer Engineering">M.Tech. Computer
-                                                  Engineering</a>
+                                                <a href="#" title="M.Tech. Computer Engineering">M.Tech. Computer Engineering</a>
                                               </h3>
                                             </li>
                                             <li>
                                               <h3>
-                                                <a href="#" title="M.Tech. Agricultural Informatics">M.Tech.
-                                                  Agricultural
-                                                  Informatics</a>
+                                                <a href="#" title="M.Tech. Agricultural Informatics">M.Tech. Agricultural Informatics</a>
                                               </h3>
                                             </li>
                                             <li>

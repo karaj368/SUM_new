@@ -91,8 +91,8 @@
                 <li><a href="notable-alumni.php" title="Notable Alumni">Notable Alumni</a></li>
                 <li><a href="seminar-and-conferences.php" title="Seminar &amp; Conferences">Seminar &amp; Conferences
                   </a></li>
-                <li><a href="/student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
-                <li><a href="/library-and-learning-centre.php" title="Notable Alumni">Library &amp; Learning Centre</a>
+                <li><a href="student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
+                <li><a href="library-and-learning-centre.php" title="Notable Alumni">Library &amp; Learning Centre</a>
                 </li>
               </ul>
 
