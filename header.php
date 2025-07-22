@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet" href="assets/css/header.css" />
   <link rel="stylesheet" href="assets/css/responsive.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
 
   <!-- favicon -->
   <link rel="icon" type="image/png" href="assets/img/all-img/favicon.png" />
@@ -814,7 +815,7 @@
                             target="_blank">International Admission</a></li>
                         <li><a href="https://suint.shobhituniversity.ac.in/" target="_blank">MBA with University of
                             Toledo</a></li>
-                        <li><a href="/global-partnerships.php">Global Partnerships</a></li>
+                        <li><a href="global-partnerships.php">Global Partnerships</a></li>
                         <li><a href="university-scholarship.php">Scholarships</a>
                         </li>
                         <li><a
@@ -957,10 +958,10 @@
                 <a href="javascript:void(0)" class="dropdown-toggle nav-link">
                   Research
                 </a>
-                <div class="dropdown-menu step-second-menu st-academics">
+                <div class="dropdown-menu step-second-menu st-academics st-academics-research ">
                   <div class="row g-0 h-100">
                     <div class="col-md-6">
-                      <h4>Get to Know Shobhit</h4>
+                      <h4>Get to Know Research</h4>
 
                       <ul class="list-unstyled p-0 m-0">
 

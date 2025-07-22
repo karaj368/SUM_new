@@ -3663,8 +3663,8 @@
     margin-bottom: 20px;
   }
   .academics-section .academics-left .ac-category ul li a {
-    font-size: 16px;
-    padding: 18px;
+    font-size: 14px;
+    padding: 16px;
   }
   .academics-section .academics-left .ac-contact a {
     font-size: 16px;
@@ -3866,10 +3866,10 @@
 /* Min width 1200px to Max width 1399px */
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .nav-search a {
-    font-size: 30px !important;
+    font-size: 20px !important;
   }
   .default-btn {
-    padding: 15px 30px;
+    padding: 10px 25px;
   }
   .banner-content-2 .content span {
     font-size: 24px;

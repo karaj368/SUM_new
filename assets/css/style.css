@@ -5014,6 +5014,9 @@ Section Banner Area CSS
 .section-banner.bg-22 {
   background-image: url(../img/banner/section-image-22.html);
 }
+.section-banner.bgglobal {
+  background-image: url(../img/banner/global-part-banner.webp);
+}
 
 
 /*================================================
@@ -5816,4 +5819,168 @@ Go Top CSS
 .accordion.cstm-accordion button.accordion-button:focus {
   border: none;
   box-shadow: none;
+}
+
+
+/* Global Partnership Page */
+.uni-row {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.uni-box {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0px 2px 14px 1px rgba(0, 0, 0, 0.11);
+  border-radius: 20px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  transition: 0.5s;
+  min-height: 200px;
+}
+
+.uni-box:hover {
+  box-shadow: 0px 2px 14px 1px rgb(237 148 101);
+  transform: scale(1.02);
+}
+
+.uni-image {
+  width: 30%;
+}
+
+.uni-image img {
+  border-radius: 20px;
+}
+
+.uni-text {
+  width: 50%;
+  padding: 0px 25px;
+}
+
+.uni-text h3 {
+  color: #07543b;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.uni-logo {
+  width: 20%;
+}
+
+.uni-logo a img {
+  width: 100%;
+}
+
+.partner-pics {
+  box-shadow: 0px 5px 20px 2px rgba(0, 0, 0, 0.21);
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
+.partner-pics img {
+  border-radius: 20px;
+  box-shadow: 0px 2px 14px 1px rgba(0, 0, 0, 0.11);
+  cursor: pointer;
+}
+
+.partner-pics img:hover {
+  transform: scale(1.02);
+}
+
+.uni-heading {
+  background-color: #f8a429;
+  color: #fff !important;
+  padding: 12px 20px;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+
+.global-mob {
+  display: none;
+}
+
+.global-sec {
+  display: flex;
+  justify-content: center;
+}
+
+.global-sec img {
+  width: 100%;
+  max-width: 50%;
+}
+
+  @media (max-width: 992px) {
+
+
+    .global-sec img {
+     
+      max-width: 65%;
+    }
+
+  }
+@media (max-width: 775px) {
+  .global-desktop {
+    display: none;
+  }
+
+  .global-mob {
+    display: block;
+  }
+
+  .global-sec {
+    margin-top: 45px;
+  }
+
+  .global-sec img {
+    width: 100%;
+    max-width: 65%;
+  }
+
+}
+
+
+@media (max-width: 575px) {
+
+  .uni-box {
+    padding: 15px 15px;
+    margin-bottom: 15px;
+  }
+
+  .uni-row {
+    padding-top: 20px;
+    padding-bottom: 5px;
+  }
+
+  .uni-text {
+    padding: 0px 10px;
+  }
+
+  .uni-text h3 {
+    font-size: 14px ;
+    margin: 0px ;
+  }
+
+  .uni-text p {
+    font-size: 14px;
+  }
+
+  .partner-pics {
+    margin-bottom: 15px;
+  }
+
+  .uni-heading {
+    font-size: 20px;
+  }
+  .global-sec img {
+    width: 100%;
+    max-width: 95%;
+  }
+  .uni-box {
+    padding: 15px;
+    min-height: 135px;
+}
+.uni-image img {
+    border-radius: 10px;
+}
 }
