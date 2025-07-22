@@ -904,13 +904,18 @@ font-weight: 500;
     max-width: 990px;
 }
 .navbar-area .navbar .navbar-brand {
-    max-width: 160px;
+    max-width: 190px;
+}
+.navbar-area .navbar .navbar-nav .nav-item .dropdown-toggle:before {
+    right: -1px;
+    top: 23px;
+    font-size: 16px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item {
     margin-right: 15px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item .nav-link {
-    font-size: 14px;
+    font-size: 12px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item .dropdown-menu .nav-item .nav-link {
     font-size: 15px;
@@ -972,13 +977,17 @@ font-weight: 500;
     max-width: 1200px;
 }
 .navbar-area .navbar .navbar-brand {
-    max-width: 170px;
+    max-width: 190px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item {
     margin-right: 22px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item .nav-link {
-    font-size: 16px;
+    font-size: 12px;
+}
+.navbar-area .navbar .navbar-nav .nav-item .dropdown-toggle:before {
+    right: -5px;
+    font-size: 18px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item .dropdown-menu .nav-item .nav-link {
     font-size: 15px;
@@ -1010,13 +1019,13 @@ font-weight: 500;
     max-width: 1300px;
 }
 .navbar-area .navbar .navbar-brand {
-    max-width: 120px;
+    max-width: 235px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item {
     margin-right: 18px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item .nav-link {
-    font-size: 16px;
+    font-size: 14px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item .dropdown-menu .nav-item .nav-link {
     font-size: 15px;
@@ -1050,7 +1059,7 @@ font-weight: 500;
     margin-right: 24px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item .nav-link {
-    font-size: 16px;
+    font-size: 14px;
 }
 .navbar-area .navbar .navbar-nav > .nav-item .dropdown-menu .nav-item .nav-link {
     font-size: 15px;
@@ -1060,6 +1069,35 @@ font-weight: 500;
 }
 .navbar-area .navbar .others-option .option-item {
     margin-left: 30px;
+}
+.default-btn {
+    padding: 15px 25px;
+}
+.dropdown-menu.st-about {
+    width: 910px;
+    left: -55px;
+}
+.dropdown-menu.st-programs {
+    width: 950px;
+    left: -150px;
+    height: 450px;
+}
+.dropdown-menu.st-academics {
+    width: 475px;
+    height: 340px;
+}   
+.dropdown-menu.st-academics.st-academics-research {
+    right: -260px;
+}  
+
+.step-second-menu h4 {
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.step-second-menu li a, .menu-tab-cnt .widget-area .widget-catagories ul li a {
+    font-size: 13px;
+    line-height: 1.1rem;
+    margin-bottom: 3px;
 }
 }
 @media only screen and (min-width: 1600px) {
