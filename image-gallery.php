@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
   <!-- Required meta tags -->
@@ -31,8 +31,8 @@
           <div class="ac-overview">
             <div class="pera-dec">
                <div id="nanogallery2" data-nanogallery2='{
-                            "kind":            "flickr",
-                            "userID":          "146666627@N05",
+                            "kind": "flickr",
+                            "userID": "146666627@N05",
                             "thumbnailHeight": 300, 
                             "thumbnailWidth": 300,
                             "galleryDisplayMode":"pagination",

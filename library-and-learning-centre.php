@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
   <!-- Required meta tags -->
@@ -26,7 +26,6 @@
   <section class="academics-section ptb-100">
     <div class="container">
       <div class="row">
-
         <div class="col-lg-9">
           <div class="ac-overview">
             <div class="pera-dec">
@@ -124,8 +123,7 @@
                       	<li class="mb-3"><a href="https://www.thehindu.com/" target="_blank">The Hindu </a></li>
                       
                       	<li class="mb-3"><a href="https://www.washingtonpost.com/" target="_blank">The Washington Post </a></li>
-                        
-                                              
+                                         
                       </ul>
 
             </div>
@@ -151,8 +149,7 @@
                   </a></li>
                 <li><a href="student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
                 <li><a class="active" href="library-and-learning-centre.php" title="Notable Alumni">Library &amp;
-                    Learning
-                    Centre</a></li>
+                    Learning Centre</a></li>
               </ul>
 
             </div>

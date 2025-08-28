@@ -1035,7 +1035,7 @@
               </li>
 
               <li class="nav-item">
-                <a href="contact-us.html" class="nav-link"> Contact </a>
+                <a href="contact-us.php" class="nav-link"> Contact </a>
               </li>
             </ul>
             <div class="others-option d-flex align-items-center">
