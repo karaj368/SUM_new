@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
   <!-- Required meta tags -->
@@ -15,7 +15,6 @@
       <div class="banner-spacing">
         <div class="section-info">
           <h2 data-aos="fade-up" data-aos-delay="100"> Global Partnerships</h2>
-
         </div>
       </div>
     </div>
@@ -47,7 +46,7 @@
 
                 <!-- 1 -->
                 <div class="col-lg-6 col-sm-12">
-                  <a href="https://suint.shobhituniversity.ac.in/" target="_blank">
+                  <a href="https://suint.shobhituniversity.ac.in" target="_blank">
                     <div class="uni-box">
                       <div class="uni-image">
                         <img src="assets/img/global-partnership/toledo-uni.png" alt="University of Toledo ">
@@ -59,7 +58,6 @@
                       <div class="uni-logo">
                         <img src="assets/img/global-partnership/TOLEDO.png" alt="University of Toledo">
                       </div>
-
                     </div>
                   </a>
                 </div>
@@ -82,8 +80,6 @@
                   </div>
                 </div>
 
-
-
                 <!-- 3 -->
                 <div class="col-lg-6 col-sm-12">
 
@@ -104,8 +100,6 @@
                   </div>
                 </div>
 
-
-
                 <!-- 4 -->
                 <div class="col-lg-6 col-sm-12">
 
@@ -120,15 +114,11 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/deakin-univ.png" alt="Deakin University">
                     </div>
-
                   </div>
                 </div>
 
-
-
                 <!-- 5 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/juraj-uni.png" alt="Juraj Dobrila University">
@@ -140,13 +130,11 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/JURAJ-DOBILA.png" alt="Juraj Dobrila University">
                     </div>
-
                   </div>
                 </div>
 
                 <!-- 6 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/libertas-uni.png" alt="Libertas International University">
@@ -159,14 +147,11 @@
                       <img src="assets/img/global-partnership/LIBERTAS-UNIV.png"
                         alt="Libertas International University">
                     </div>
-
                   </div>
                 </div>
 
-
                 <!-- 7 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/ternopil-uni.png" alt="Ternopil University ">
@@ -178,14 +163,11 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/TERNOPIL-UNIV.png" alt="Ternopil University ">
                     </div>
-
                   </div>
                 </div>
 
-
                 <!-- 8 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/almaty-uni.png"
@@ -199,14 +181,11 @@
                       <img src="assets/img/global-partnership/afkn-University.png"
                         alt="AI-Farabi Kazakh National University">
                     </div>
-
                   </div>
                 </div>
 
-
                 <!-- 9 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/aheu-uni.png"
@@ -220,17 +199,10 @@
                       <img src="assets/img/global-partnership/aheu-university.png"
                         alt="Almaty Humanitarian-Economic University">
                     </div>
-
                   </div>
-
                 </div>
-
-
-
-
                 <!-- 10 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/tribhuvan-uni.png" alt="Tribhuvan University">
@@ -242,12 +214,10 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/tribhuvan-university.png" alt="Tribhuvan University">
                     </div>
-
                   </div>
                 </div>
                 <!-- 11 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img1.webp"
@@ -261,12 +231,10 @@
                       <img src="assets/img/global-partnership/uni1.png"
                         alt="Euphrosyne Polotskaya State University of Polotsk">
                     </div>
-
                   </div>
                 </div>
                 <!-- 12 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img2.webp"
@@ -279,12 +247,10 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni2.png" alt="Belarusian National Technical University">
                     </div>
-
                   </div>
                 </div>
                 <!-- 13 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img3.webp" alt="University of Sunderland">
@@ -296,12 +262,10 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni3.png" alt="University of Sunderland">
                     </div>
-
                   </div>
                 </div>
                 <!-- 14 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img9.webp" alt="South Valley University">
@@ -313,13 +277,11 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni9.png" alt="South Valley University">
                     </div>
-
                   </div>
                 </div>
 
                 <!-- 15 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img5.webp"
@@ -332,12 +294,10 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni5.png" alt="Vilnius Gediminas Technical University">
                     </div>
-
                   </div>
                 </div>
                 <!-- 16 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img6.webp"
@@ -351,12 +311,10 @@
                       <img src="assets/img/global-partnership/uni6.png"
                         alt="International Business, Science and Technology University (ISBAT)">
                     </div>
-
                   </div>
                 </div>
                 <!-- 17 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img7.webp" alt="Fairfax University of Americy">
@@ -368,12 +326,11 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni7.png" alt="Fairfax University of Americy">
                     </div>
-
                   </div>
                 </div>
+
                 <!-- 18 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img8.webp" alt="Trinity University">
@@ -385,12 +342,10 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni8.png" alt="Trinity University">
                     </div>
-
                   </div>
                 </div>
                 <!-- 19 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni-img4.jpg" alt="CEPRES International University">
@@ -402,12 +357,10 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni4.png" alt="CEPRES International University">
                     </div>
-
                   </div>
                 </div>
                 <!-- 20 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni10.jpg" alt="Trinity University">
@@ -419,13 +372,11 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni10.png" alt="Trinity University">
                     </div>
-
                   </div>
                 </div>
 
                 <!-- 21 -->
                 <div class="col-lg-6 col-sm-12">
-
                   <div class="uni-box">
                     <div class="uni-image">
                       <img src="assets/img/global-partnership/uni11.jpg" alt="CEPRES International University">
@@ -437,11 +388,8 @@
                     <div class="uni-logo">
                       <img src="assets/img/global-partnership/uni11.png" alt="CEPRES International University">
                     </div>
-
                   </div>
                 </div>
-
-
               </div>
             </div>
           </div>
@@ -449,13 +397,11 @@
         </div>
         <div class="col-lg-12">
           <div class="row">
-           
             <div class="col-md-4 col-sm-6 col-sm-6">
               <div class="partner-pics">
                 <img src="assets/img/global-partnership/p1.png" alt="">
               </div>
             </div>
-
             <div class="col-md-4 col-sm-6 col-sm-6">
               <div class="partner-pics">
                 <img src="assets/img/global-partnership/p2.png" alt="">
@@ -467,7 +413,6 @@
                 <img src="assets/img/global-partnership/Australia.png" alt="">
               </div>
             </div>
-
 
             <div class="col-md-4 col-sm-6 col-sm-6">
               <div class="partner-pics">
@@ -487,42 +432,40 @@
               </div>
             </div>
 
-          <div class="col-md-4 col-sm-6 col-sm-6">
-            <div class="partner-pics">
-              <img src="assets/img/global-partnership/Australia1.png" alt="" >
+            <div class="col-md-4 col-sm-6 col-sm-6">
+              <div class="partner-pics">
+                <img src="assets/img/global-partnership/Australia1.png" alt="">
+              </div>
             </div>
-          </div>
 
-          <div class="col-md-4 col-sm-6 col-sm-6">
-            <div class="partner-pics">
-              <img src="assets/img/global-partnership/Australia2.png" alt="" >
+            <div class="col-md-4 col-sm-6 col-sm-6">
+              <div class="partner-pics">
+                <img src="assets/img/global-partnership/Australia2.png" alt="">
+              </div>
             </div>
-          </div>
 
-          <div class="col-md-4 col-sm-6 col-sm-6">
-            <div class="partner-pics">
-              <img src="assets/img/global-partnership/Croatia.png" alt="" >
+            <div class="col-md-4 col-sm-6 col-sm-6">
+              <div class="partner-pics">
+                <img src="assets/img/global-partnership/Croatia.png" alt="">
+              </div>
             </div>
-          </div>
 
-          <div class="col-md-4 col-sm-6 col-sm-6">
-            <div class="partner-pics">
-              <img src="assets/img/global-partnership/toledo4.png" alt="" >
+            <div class="col-md-4 col-sm-6 col-sm-6">
+              <div class="partner-pics">
+                <img src="assets/img/global-partnership/toledo4.png" alt="">
+              </div>
             </div>
-          </div>
-
-
-          <div class="col-md-4 col-sm-6 col-sm-6">
-            <div class="partner-pics">
-              <img src="assets/img/global-partnership/Rwanda2.png" alt="" >
+            <div class="col-md-4 col-sm-6 col-sm-6">
+              <div class="partner-pics">
+                <img src="assets/img/global-partnership/Rwanda2.png" alt="">
+              </div>
             </div>
-          </div>
 
-          <div class="col-md-4 col-sm-6 col-sm-6">
-            <div class="partner-pics">
-              <img src="assets/img/global-partnership/Rwanda1.png" alt="" >
+            <div class="col-md-4 col-sm-6 col-sm-6">
+              <div class="partner-pics">
+                <img src="assets/img/global-partnership/Rwanda1.png" alt="">
+              </div>
             </div>
-          </div>
 
           </div>
         </div>
@@ -530,18 +473,17 @@
           <div class="ac-overview">
             <div class="pera-dec">
               <h2>Join Us for an Education Without Borders</h2>
-              <p>At Shobhit University, we believe in building bridges—connecting disciplines, cultures, and continents. Embark on your educational journey with us, 
+              <p>At Shobhit University, we believe in building bridges—connecting disciplines, cultures, and continents.
+                Embark on your educational journey with us,
                 where your learning experiences are as global as your aspirations.</p>
-</div>
-</div>
-</div>
-
-
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
-  <!-- End About Us Area -->
 
+  <!-- End About Us Area -->
 
   <!-- Campus Slider  -->
   <section class="campus-area ptb-100">
@@ -626,7 +568,9 @@
         <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
               aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span
               aria-label="Next">›</span></button></div>
-        <div class="owl-dots disabled"></div>
+        <div class="owl-dots disabled">
+
+        </div>
       </div>
     </div>
   </section>
