@@ -63,7 +63,7 @@
           <div class="col-lg-6">
             <div class="right-form form-container ms-auto">
 
-              <h4 class="mb-4">University Admission Form</h4>
+              <h4 class="mb-4">Admission Form</h4>
               <form>
                 <!-- Personal Details -->
                 <div class="row mb-3">
@@ -798,7 +798,7 @@
             </div>
           </div>
         </div>
-        <div class="ranking-row ranking-slider owl-carousel owl-theme pt-5">
+        <!-- <div class="ranking-row ranking-slider owl-carousel owl-theme pt-5">
           <div class="rankingthumb">
             <span>Ranked</span>
             <div class="rankingthumb__no">37<sup>th</sup></div>
@@ -834,7 +834,12 @@
               The CSR Law School Survey 2024
             </div>
           </div>
-        </div>
+        </div> -->
+<div class="section-title" data-aos="fade-up" data-aos-delay="100">
+        <h2 class="title-anim">Our Leading Recruiters</h2>
+      </div>
+      <p class="text-center">At Shobhit University, there is an intensive focus on getting each and every student industry ready. With more than 2000 recruiters visiting our campus every year, our graduates have the support, resources and facilities they need in a constantly changing world and job market.</p>
+        <img src="./assets/img/mentors.webp" width="100%" alt="SU Placements">
       </div>
     </section>
     <!-- End Courses Area -->

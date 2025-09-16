@@ -199,7 +199,6 @@
                           </ul>
                         </div>
                       </div>
-
                     </div>
 
                     <div class="col-md-3 about-graphic d-none d-lg-block"
@@ -892,14 +891,14 @@
                           </a></li>
                         <li><a href="https://shobhit.online/" target="_blank" class="sidebar-links">Online Education
                           </a></li>
-                        <li><a href="/curriculum-objectives.php" class="sidebar-links">Curricular Aspects</a></li>
-                        <li><a href="/teaching-methodology.php" class="sidebar-links">Teaching Methodology</a></li>
-                        <li><a href="/academic-calendar.php" class="sidebar-links">Academic Calendar</a></li>
-                        <li><a href="/technical-business-incubator.php" class="sidebar-links">MSME-Technology Business
+                        <li><a href="curriculum-objectives.php" class="sidebar-links">Curricular Aspects</a></li>
+                        <li><a href="teaching-methodology.php" class="sidebar-links">Teaching Methodology</a></li>
+                        <li><a href="academic-calendar.php" class="sidebar-links">Academic Calendar</a></li>
+                        <li><a href="technical-business-incubator.php" class="sidebar-links">MSME-Technology Business
                             Incubator </a></li>
-                        <li><a href="/aicte.php" class="sidebar-links">Shobhit AICTE IDEA Lab</a></li>
+                        <li><a href="aicte.php" class="sidebar-links">Shobhit AICTE IDEA Lab</a></li>
                         <li><a href="https://www.vlab.co.in/" target="_blank" class="sidebar-links">Virtual Lab</a></li>
-                        <li><a href="/nsdc.php" class="sidebar-links">NSDC Skill Development Initiative</a></li>
+                        <li><a href="nsdc.php" class="sidebar-links">NSDC Skill Development Initiative</a></li>
                         <li><a href="#" class="sidebar-links">Important Notice </a></li>
 
                       </ul>
@@ -1069,58 +1068,121 @@
       <div class="offcanvas-body">
         <div class="accordion" id="navbarAccordion">
           <div class="accordion-item">
-            <button class="accordion-button collapsed active" type="button" data-bs-toggle="collapse"
-              data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <a class="accordion-link without-icon" href="/">
               Home
-            </button>
-            <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
-              <div class="accordion-body">
-                <div class="accordion" id="navbarAccordion7">
-                  <div class="accordion-item">
-                    <a href="index-2.html" class="accordion-link active">
-                      Home One
-                    </a>
-                  </div>
-                  <div class="accordion-item">
-                    <a href="index2.html" class="accordion-link">
-                      Home Two
-                    </a>
-                  </div>
-                  <div class="accordion-item">
-                    <a href="index3.html" class="accordion-link">
-                      Home Three
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
+            </a>
           </div>
           <div class="accordion-item">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              Pages
+              About us
             </button>
             <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
               <div class="accordion-body">
                 <div class="accordion" id="navbarAccordion8">
-                  <div class="accordion-item">
-                    <a href="about-us.html" class="accordion-link">
-                      About Us
-                    </a>
-                  </div>
-                  <div class="accordion-item">
-                    <a href="news-and-blog.html" class="accordion-link">
-                      News and Blog
-                    </a>
-                  </div>
-                  <div class="accordion-item">
-                    <a href="blog-details.html" class="accordion-link">
-                      Blog Details
-                    </a>
-                  </div>
-                  <div class="accordion-item">
-                    <a href="alumni.html" class="accordion-link"> Alumni </a>
-                  </div>
+                 <div class="row gy-3">
+                        <div class="col-md-12">
+                          <h4 class="text-black fs-6" >Get to Know Shobhit</h4>
+                          <ul class="list-unstyled p-0 m-0">
+                            <li><a href="university-overview.php"
+                                title="University Overview">University Overview</a></li>
+                            <li><a href="believe-vision-and-mission.php"
+                                title="Believe, Vision &amp; Mission">Believe, Vision &amp; Mission</a></li>
+                            <li><a href="our-inspirer.php" title="Our Inspirer">Our
+                                Inspirer</a>
+                            </li>
+                            <li><a href="historical-milestones.php"
+                                title="Historical Milestones">Historical Milestones</a></li>
+                            <li><a href="university-leadership.php"
+                                title="University Leadership">University Leadership</a></li>
+                            <li><a href="pdf/organogram-university.pdf"
+                                title="University Organogram" target="_blank">University Organogram</a></li>
+                            <li><a href="our-logo.php" title="University Logo">Our
+                                Logo</a></li>
+                            <li><a href="ann-repts.php"
+                                title="Annual Reports">Annual
+                                Reports</a>
+                            </li>
+                          </ul>
+                        </div>
+                        <div class="col-md-12">
+                          <h4 class="text-black fs-6" >Info About</h4>
+                          <ul class="list-unstyled p-0 m-0">
+
+                            <li><a href="ranking-and-awards.php"
+                                title="Ranking and Awards">Ranking
+                                and Awards</a></li>
+                            <li><a href="recognitions-and-approvals.php"
+                                title="Recognitions and Approvals">Recognitions and Approvals</a></li>
+                            <li><a href="our-partners.php" title="Our Partners">Our
+                                Partners</a>
+                            </li>
+                            <li><a href="university-authorities.php"
+                                title="University Authorities">University Authorities</a></li>
+                            <li><a href="blogs.php"
+                                title="University Blogs">Blogs</a>
+                            </li>
+                            <li><a href="news-and-events.php"
+                                title="News &amp; Events">News &amp;
+                                Events</a></li>
+                            <li><a href="sum-iqac.php" title="IQAC">IQAC</a></li>
+                            <li><a href="sum-econtent.php"
+                                title="IQAC-e-Content">e-Content</a>
+                            </li>
+                          </ul>
+                        </div>
+                        <div class="col-md-12">
+                          <h4 class="text-black fs-6" >Experience @ Shobhit</h4>
+
+                          <ul class="list-unstyled p-0 m-0">
+                            <li><a href="MOUs.php" title="">MOU's</a></li>
+                            <li><a href="social-services.php"
+                                title="Social Services">Social
+                                Services</a></li>
+                            <li><a href="awards-and-achievements.php"
+                                title="Awards and Achievements">Awards and Achievements </a></li>
+                            <li><a href="alumni-network.php"
+                                title="Alumni Network">Alumni
+                                Network</a></li>
+                            <li><a href="notable-alumni.php"
+                                title="Notable Alumni">Notable
+                                Alumni</a></li>
+                            <li><a href="seminar-and-conferences.php"
+                                title="Seminar &amp; Conferences">Seminar &amp; Conferences </a></li>
+                            <li><a href="student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
+                            <li><a href="library-and-learning-centre.php" title="Notable Alumni">Library &amp; Learning
+                                Centre</a></li>
+                          </ul>
+                        </div>
+                        <div class="col-md-12">
+                          <h4 class="text-black fs-6" >Quick Links</h4>
+
+                          <ul class="list-unstyled p-0 m-0">
+                            <li><a href="vc-meerut.php" title="Our Faculty">Vice
+                                Chancellor</a>
+                            </li>
+                            <li><a href="univ-erp.php"
+                                title="University ERP">University ERP</a>
+                            </li>
+                            <li><a href="image-gallery.php"
+                                title="Image Gallery">Image Gallery</a>
+                            </li>
+                            <li><a href="media-coverage.php"
+                                title="Media Coverage">Media
+                                Coverage</a></li>
+                            <li><a href="virtual/index.html"
+                                title="Take a Virtual Tour" target="_blank">Take a Virtual Tour </a></li>
+                            <!--<li><a href="/sangeetam" target="_blank">Sangeetam</a></li>-->
+                            <li><a href="Inspirer_Day_2025/"
+                                target="_blank">Inspirer Day Celebrations 2025</a></li>
+
+                            <!-- start sub menu item -->
+
+                            <!-- end sub menu item  -->
+
+                          </ul>
+                        </div>
+                      </div>
                 </div>
               </div>
             </div>
@@ -1128,7 +1190,7 @@
           <div class="accordion-item">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              Academics
+              Programs
             </button>
             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
               <div class="accordion-body">
@@ -1207,7 +1269,7 @@
           <div class="accordion-item">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-              Courses
+              Acedemics
             </button>
             <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
               <div class="accordion-body">
@@ -1229,7 +1291,7 @@
           <div class="accordion-item">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-              University Life
+              Research
             </button>
             <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
               <div class="accordion-body">

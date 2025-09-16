@@ -13,7 +13,7 @@
         <div class="container">
             <div class="banner-spacing">
                 <div class="section-info">
-                    <h2 data-aos="fade-up" data-aos-delay="100">University Leadership</h2>
+                    <h1 data-aos="fade-up" data-aos-delay="100">University Leadership</h1>
                     
                 </div>
             </div>
@@ -30,12 +30,12 @@
                     <img src="https://www.shobhituniversity.ac.in/images/leadershipbanner1.jpg" alt="University Leadership">
                     <div class="ac-overview">
                         <div class="pera-dec pt-5">
-                            <h3>Our Pillar of Strength:</h3>
+                            <h2>Our Pillar of Strength:</h2>
                             <p>Dr. Shobhit Kumar, embodying the essence of transformative leadership, helms Shobhit University as its Chairman while also guiding the NICE Society as its Managing Trustee. His work transcends the conventional boundaries of education, reaching into the heart of rural India to ignite change through the provision of technical education and healthcare. His efforts have catalyzed economic revitalization in these areas, enhancing living standards and stimulating a reverse migration, as individuals return to their roots attracted by burgeoning opportunities.
 
 Under his stewardship, the Shri J.P. Mathur Charitable Trust flourishes, engaging in a spectrum of national initiatives steered by the wisdom of renowned statesmen. Dr. Kumar's approach is not just about educational expansion but about nurturing the seeds of social consciousness and empowerment within the rural fabric of India.</p>
                          
-                            <h3>Our Symbol of Team Spirit:</h3>
+                            <h2>Our Symbol of Team Spirit:</h2>
                             <p>Kunwar Shekhar Vijendra, as the Chancellor of Shobhit University, champions the cause of educational and societal development with untiring zeal. His contribution as the Executive Trustee of NICE Society Trust and subsequent educational and health initiatives stand as testaments to his vision for an empowered youth, capable of leading transformative change. His engagement with various social organizations and advisory capacities in numerous trusts and councils underscores a deep-seated commitment to fostering societal progress.</p>
                             <p>Kunwar Shekhar's global engagements reflect a holistic approach to education, emphasizing the need for it to be accessible to the underprivileged, grounded in secular values, and aimed at nurturing a culture of peace and global harmony. His travels and active participation in international forums amplify his voice for a universally inclusive educational paradigm that transcends geographical and cultural barriers, aiming to weave a tapestry of global unity through the threads of education and empathy. He is the Chairman of ASSOCHAM National Council on Education, a Philanthropist, Agriculturist and Gandhian.</p>
                             <p style="color:grey;">For more details, you can refer to Kunwar Shekhar Vijendra's <br><a href="https://www.linkedin.com/in/kunwarsv/" target="_blank">LinkedIn profile.</a></p>
