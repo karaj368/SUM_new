@@ -14,7 +14,7 @@
         <div class="container">
             <div class="banner-spacing">
                 <div class="section-info">
-                    <h2 data-aos="fade-up" data-aos-delay="100"> Social Services </h2>
+                    <h1 data-aos="fade-up" data-aos-delay="100"> Social Services </h1>
                     
                 </div>
             </div>

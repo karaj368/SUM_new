@@ -14,7 +14,7 @@
         <div class="container">
             <div class="banner-spacing">
                 <div class="section-info">
-                    <h2 data-aos="fade-up" data-aos-delay="100">Believe, Vision & Mission </h2>
+                    <h1 data-aos="fade-up" data-aos-delay="100">Believe, Vision & Mission </h1>
                     
                 </div>
             </div>
@@ -30,12 +30,12 @@
                 <div class="col-lg-9">
                     <div class="ac-overview">
                         <div class="pera-dec">
-                            <h3>Believe</h3>
+                            <h2>Believe</h2>
                             <p>Shobhit University believes in blending Indian tradition with international outlook in education, nurturing students to become professionals and compassionate individuals who contribute positively to society.</p>
                          
-                            <h3>Vision</h3>
+                            <h2>Vision</h2>
                             <p>Shobhit University aspires to be recognized internationally as a leading Indian university that shapes leaders for a just and humane world. It focuses on becoming a focal institution in technical education, research, and innovation, contributing significantly at both national and global levels.</p>
-                            <h3>Mission</h3>
+                            <h2>Mission</h2>
                             <p>The university's mission is to offer diverse learning experiences in traditional and emerging fields, emphasizing research, innovation, and the development of professional skills and personal values. It aims to foster a learning community that values high-quality scholarship, cultural heritage, and ethical living, supported by effective leadership and governance aligned with its vision and mission.</p>
 
                         </div>

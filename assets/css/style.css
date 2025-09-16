@@ -7,7 +7,7 @@ Default CSS
   --fontFamily: 'Lexend', sans-serif;
   --mainColor: #f69527;
   --secounderyColor: #F2F8F1;
-  --paragraphColor: #7A7A7A;
+  --paragraphColor: #4d4d4d;
   --paragraphColorSecond: #B9B9BA;
   --whiteColor: #ffffff;
   --blackColor: #116446;
@@ -81,6 +81,9 @@ p {
   color: var(--paragraphColor);
   margin-bottom: 15px;
   line-height: 1.8;
+}
+p strong{
+  color: #212529;
 }
 
 p:last-child {
@@ -1774,10 +1777,11 @@ Academics Section Area CSS
   content: '';
 }
 
-.academics-section .ac-overview .pera-dec h3 {
+.academics-section .ac-overview .pera-dec h3, .academics-section .ac-overview .pera-dec h2 {
   font-family: 'Lexend', sans-serif;
   margin-bottom: 30px;
   font-size: 30px;
+  text-align: start;
 }
 
 .academics-section .ac-overview .pera-dec .catagorys {
@@ -3925,7 +3929,7 @@ Contact Area CSS
 
 #map iframe {
   width: 100%;
-  height: 250px;
+  height: 355px;
   border: none;
 }
 
@@ -4002,7 +4006,7 @@ Contact Area CSS
   color: var(--paragraphColor);
   padding-left: 30px;
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 
 .contact-info .info-details ul li a {
@@ -4912,7 +4916,7 @@ Section Banner Area CSS
   max-width: 628px;
 }
 
-.section-banner .section-info h2 {
+.section-banner .section-info h2, .section-banner .section-info h1 {
   color: var(--whiteColor);
   font-family: 'Lexend', sans-serif;
   font-size: 48px;

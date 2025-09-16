@@ -864,7 +864,7 @@
     max-width: 300px;
     margin: auto;
   }
-  .section-banner .section-info h2 {
+  .section-banner .section-info h2, .section-banner .section-info h1 {
     font-size: 36px;
   }
 
@@ -987,7 +987,7 @@
     margin-bottom: 20px;
     text-align: center;
   }
-  .academics-section .ac-overview .pera-dec h3 {
+  .academics-section .ac-overview .pera-dec h3, .academics-section .ac-overview .pera-dec h2 {
     margin-bottom: 20px;
     font-size: 28px;
   }
@@ -1031,7 +1031,7 @@
     padding-left: 0;
   }
 
-  .academics-section .ac-overview .pera-dec h3 {
+  .academics-section .ac-overview .pera-dec h3, .academics-section .ac-overview .pera-dec h2 {
     margin-bottom: 20px;
     font-size: 18px;
   }
@@ -1758,7 +1758,7 @@
     margin-bottom: 12px;
     font-size: 13px;
   }
-  .academics-section .ac-overview .pera-dec h3 {
+  .academics-section .ac-overview .pera-dec h3, .academics-section .ac-overview .pera-dec h2 {
     margin-bottom: 10px;
     font-size: 18px;
   }
@@ -2466,7 +2466,7 @@
   .academics-section .ac-overview .pera-dec .graduate-area .info-box .single-info a {
     font-size: 15px;
   }
-  .academics-section .ac-overview .pera-dec h3 {
+  .academics-section .ac-overview .pera-dec h3, .academics-section .ac-overview .pera-dec h2 {
     margin-bottom: 30px;
   }
   .graduate-events {
@@ -2603,7 +2603,7 @@
     margin-bottom: 20px;
     font-size: 14px;
   }
-  .section-banner .section-info h2 {
+  .section-banner .section-info h2, .section-banner .section-info h1 {
     font-size: 40px;
   }
   .section-banner .section-info p {
@@ -3182,7 +3182,7 @@
 
 
 
-  .section-banner .section-info h2 {
+  .section-banner .section-info h2, .section-banner .section-info h1 {
     font-size: 40px;
   }
   .section-banner .section-info p {
@@ -3720,10 +3720,10 @@
   .graduate-events .content-items .image img {
     width: 300px;
   }
-  .academics-section .ac-overview .pera-dec h3 {
+  .academics-section .ac-overview .pera-dec h3, .academics-section .ac-overview .pera-dec h2 {
     font-size: 25px;
   }
-  .academics-section .ac-overview .pera-dec h3 {
+  .academics-section .ac-overview .pera-dec h3, .academics-section .ac-overview .pera-dec h2 {
     font-size: 24px;
   }
   .problem-sector .problem-list .problem-items ul li a {

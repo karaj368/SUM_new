@@ -14,7 +14,7 @@
     <div class="container">
       <div class="banner-spacing">
         <div class="section-info">
-          <h2 data-aos="fade-up" data-aos-delay="100"> Global Partnerships</h2>
+          <h1 data-aos="fade-up" data-aos-delay="100"> Global Partnerships</h1>
         </div>
       </div>
     </div>
@@ -70,7 +70,7 @@
                       <img src="assets/img/global-partnership/western-uni.png" alt="Western Sydney University">
                     </div>
                     <div class="uni-text">
-                      <h3>Western Sydney University</h3>
+                      <h2>Western Sydney University</h2>
                       <p><i class="fa-solid fa-location-dot" aria-hidden="true"></i> Australia</p>
                     </div>
                     <div class="uni-logo">

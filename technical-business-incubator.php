@@ -5,7 +5,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Awards & Achievements | Shobhit University</title>
+  <title>Technology Business Incubator | Shobhit University</title>
 
 
   <?php include 'header.php';?>
@@ -14,7 +14,7 @@
     <div class="container">
       <div class="banner-spacing">
         <div class="section-info">
-          <h1 data-aos="fade-up" data-aos-delay="100"> Awards & Achievements </h1>
+          <h2 data-aos="fade-up" data-aos-delay="100"> Technology Business Incubator</h2>
 
         </div>
       </div>
@@ -30,49 +30,60 @@
         <div class="col-lg-9">
           <div class="ac-overview">
             <div class="pera-dec">
-              <div class="std-activities">
-                <div class="graduate-events">
-                  <div class="content-items">
-                    <div class="content">
-                      <h2>EducationWorld India Higher Education Rankings 2025-26</h2>
-                      <p>Congratulations to Shobhit University! Being recognized as a Top Performing University of the Year 2025-26 Ranked 6 in India and Ranked 1st in Uttar Pradesh (UP)  the EducationWorld Grand Jury Higher Education Rankings 2025-26 is a significant achievement. </p>
-                    
-                      <p class="text-black">by Shobhit University |  26 April, 2025  | Awards</p>
-                    </div>
-                    <div class="image">
-                      <img src="assets/img/awards/a8.jpg" alt="EducationWorld India Higher Education Ranking">
-                    </div>
-                  </div>
-                </div>
-                 <div class="graduate-events">
-                  <div class="content-items">
-                    <div class="content">
-                      <h2>CSR Awards For Excellence 2025</h2>
-                      <p>Shobhit Deemed University Meerut has been awarded CSR Top Leading University in India Award.<br>
+              <h3>"Innovate, Incubate, Inspire: Shobhit University's Technology Business Incubator"</h3>
+              <p>
+                Empowering Innovation, Pioneering Futures
+                  At Shobhit University, we stand at the forefront of innovation with our esteemed Technology Business Incubator (TBI), a vital force in economic and technological progress. Supported by the ASPIRE scheme under the MSME project, our mission is to transform groundbreaking ideas into leading solutions, fueling market dynamics and contributing significantly to the economic landscape.
+              </p>
+               <h3> Our Vision and Mission  </h3>
+              <p>Our TBI is more than just a space; it's a dynamic ecosystem where technology-driven startups and visionary entrepreneurs find their nurturing ground. We are committed to fostering innovation, particularly in the realms of agro-based industries and environmental technologies, empowering you to bring your revolutionary ideas to fruition.  </p>
 
-                      Shobhit Institute of Engineering and Technology (Deemed-to-be-university), Delhi, NCR [Faculty of Legal Studies (FLS)]</p>
-                    
-                      <p class="text-black">by Shobhit University | 26 April, 2025 | Awards</p>
-                    </div>
-                    <div class="image">
-                      <img src="assets/img/awards/CSR-Awards-SIET-2025.jpg" alt="CSR Awards For Excellence 2025">
-                    </div>
-                  </div>
-                </div>
-                <div class="graduate-events">
-                  <div class="content-items">
-                    <div class="content">
-                      <h2>EduShine National Excellence Awards 2019 for Excellence in Enabling Research Environment.</h2>
-                      <p>The Award was bestowed by Bharat Ratna <span class="text-black fw-bold">Shri Pranab Mukherjee ji, Hon’ble Former President</span> of India during 12th ASSOCHAM National Education Summit on 21st February 2019.</p>
-                    
-                      <p class="text-black">by Shobhit University | 13 March, 2019 | Awards</p>
-                    </div>
-                    <div class="image">
-                      <img src="assets/img/awards/aw5.jpg" alt="EduShine National Excellence Awards 2019">
-                    </div>
-                  </div>
-                </div>
-              </div>
+              <h3>Why Choose Shobhit University's TBI?</h3>
+              <ul>
+                <li>
+                  <p><strong>Exclusive Prestige:</strong> Shobhit University hosts one of only two ASPIRE MSME-supported TBIs in Uttar Pradesh, alongside IIT BHU, placing us at the pinnacle of innovation hubs.</p>
+                </li>
+                <li>
+                  <p><strong>Expert Mentorship:</strong> Benefit from personalized guidance by our network of seasoned entrepreneurs and industry leaders, driving your business strategy and technological development to new heights.</p>
+                </li>
+                <li>
+                  <p><strong>Robust Networking: </strong> Immerse yourself in an extensive network of business resources, academia, and industry, unlocking unparalleled opportunities for collaboration and growth.</p>
+                </li>
+                <li>
+                  <p><strong>Comprehensive Support:</strong> From ideation to market commercialization, we provide an all-encompassing suite of services, including business plan development, credit facilitation, and marketing assistance.</p>
+                </li>
+                <li>
+                  <p><strong>Hands-On Experience: </strong> Engage with real-world projects in a supportive environment, refining and validating your innovations with direct, practical experience.</p>
+                </li>
+              </ul>
+              <h3>
+                Focus Areas for Innovation
+              </h3>
+              <p>We are at the vanguard of addressing critical environmental and economic challenges, with a keen focus on:</p>
+              <ul>
+                 <li>
+                  <p><strong>Water Treatment Innovations: </strong> Developing low-cost, eco-friendly purification systems from agricultural waste, addressing pressing environmental needs.</p>
+                </li>
+                <li>
+                  <p><strong>Agro-Industry Solutions: </strong> Pioneering sustainable biofuel production and the efficient utilization of sugarcane bagasse and wheat straw, enhancing economic viability while promoting environmental sustainability.</p>
+                </li>
+              </ul>
+              <h3>Join Our Community of Innovators</h3>
+              <p>We invite passionate entrepreneurs, whether you're a recent graduate with fresh ideas or an experienced professional eager to make an impact. Join us in shaping the technologies of tomorrow.</p>
+              <h3>
+                How to Apply
+              </h3>
+
+              <p>Seize the opportunity to turn your innovative ideas into reality. Apply to our TBI by submitting a detailed project proposal online or via mail to Shobhit University, Meerut NH-58, Modipuram Meerut, 250110, within 15 days.</p>
+
+              <h3>Get in Touch</h3>
+
+              <p>Begin your journey to success at Shobhit University's TBI. Contact us today and become part of a community dedicated to nurturing the innovations that will define our future.
+              <br> 
+              <a href="mailto:shobhit.tbi@shobhituniversity.ac.in">shobhit.tbi@shobhituniversity.ac.in</a>
+              </p>
+             
+
             </div>
           </div>
         </div>
@@ -83,17 +94,15 @@
                 <span class="text-black">Get to Know Shobhit</span>
               </div>
               <ul>
-                <li><a href="MOUs.php" title="MOU's">MOU's</a></li>
-                <li><a href="social-services.php" title="Social Services">Social Services</a></li>
-                <li><a class="active" href="awards-and-achievements.php" title="Awards and Achievements">Awards and
-                    Achievements </a></li>
-                <li><a href="alumni-network.php" title="Alumni Network">Alumni Network</a></li>
-                <li><a href="notable-alumni.php" title="Notable Alumni">Notable Alumni</a></li>
-                <li><a href="seminar-and-conferences.php" title="Seminar &amp; Conferences">Seminar &amp; Conferences
-                  </a></li>
-                <li><a href="student-clubs.php" title="Notable Alumni">Student Clubs</a></li>
-                <li><a href="library-and-learning-centre.php" title="Notable Alumni">Library &amp; Learning Centre</a>
-                </li>
+                <li><a href="" title="Faculties, Schools & Centers">Faculties, Schools & Centers </a></li>
+                <li><a href="https://shobhitodl.in" target="_blank" title="Distance Education">Distance Education </a></li>
+                <li><a href="https://shobhit.online" target="_blank" title="Online Education ">Online Education </a> </li>
+                <li><a href="curriculum-objectives.php"  title="Curricular Aspects ">Curricular Aspects </a></li>
+                <li><a href="teaching-methodology.php" title="Teaching Methodology">Teaching Methodology</a></li>
+                <li><a href="academic-calendar.php" title="Academic Calendar">Academic Calendar </a></li>
+                <li><a href="technical-business-incubator.php" class="active"  title="MSME-Technology Business Incubator">MSME-Technology Business Incubator</a></li>
+                <li><a href="aicte.php" title="AICTE IDEA Lab">AICTE IDEA Lab</a></li>
+                <li><a href="nsdc.php" title="NSDC Skill Development Initiative">NSDC Skill Development Initiative</a></li>
               </ul>
 
             </div>

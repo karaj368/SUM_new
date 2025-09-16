@@ -14,7 +14,7 @@
         <div class="container">
             <div class="banner-spacing">
                 <div class="section-info">
-                    <h2 data-aos="fade-up" data-aos-delay="100"> Student Clubs </h2>
+                    <h1 data-aos="fade-up" data-aos-delay="100"> Student Clubs </h1>
                     
                 </div>
             </div>

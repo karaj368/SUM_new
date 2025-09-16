@@ -15,7 +15,7 @@
         <div class="container">
             <div class="banner-spacing">
                 <div class="section-info">
-                    <h2 data-aos="fade-up" data-aos-delay="100">University Overview</h2>
+                    <h1 data-aos="fade-up" data-aos-delay="100">University Overview</h1>
                     <p data-aos="fade-up" data-aos-delay="200">Shobhit Institute of Engineering & Technology, popularly
                         known as Shobhit University,
                         is focused on nurturing future leaders with a global perspective. </p>
