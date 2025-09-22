@@ -173,6 +173,57 @@
         </section> -->
     <!-- End Undergraduate Area -->
 
+    <!-- Featured Section Area -->
+    <section class="featured-section bg-light ptb-70">
+      <div class="container">
+        <div class="row g-3">
+          <div class="col-md-6 col-lg-3">
+            <div class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
+              <div class="featured-icon bg-light ">
+                  <i class="fa-solid fa-award fs-2" style="color:#f69527;"></i>
+              </div>
+              
+              <h5>NAAC "A" Grade</h5>
+              <p>Accredited by National Assessment and Accreditation Council</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+             <div class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
+              <div class="featured-icon bg-light ">
+                  <i class="fa-solid fa-globe fs-2 text-primary" ></i>
+              </div>
+              
+              <h5>Global Partnerships</h5>
+              <p>Collaborations with universities in USA, UK, Australia</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+             <div class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
+              <div class="featured-icon bg-light ">
+                  <i class="fa-solid fa-users fs-2 text-success" ></i>
+              </div>
+              
+              <h5>500+ Faculty</h5>
+              <p>Experienced faculty members with industry expertise</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+             <div class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
+              <div class="featured-icon bg-light ">
+
+                  <i class="fa-solid fa-calendar-days fs-2 text-info"></i>
+              </div>
+              
+              <h5>Flexible Learning</h5>
+              <p>Regular, distance, and online learning modes availablecil</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+<!-- End Featured Area -->
+
     <!-- Start Academics Area -->
     <section class="academics-area ptb-70">
       <div class="container">
@@ -835,7 +886,7 @@
             </div>
           </div>
         </div> -->
-<div class="section-title" data-aos="fade-up" data-aos-delay="100">
+    <div class="section-title" data-aos="fade-up" data-aos-delay="100">
         <h2 class="title-anim">Our Leading Recruiters</h2>
       </div>
       <p class="text-center">At Shobhit University, there is an intensive focus on getting each and every student industry ready. With more than 2000 recruiters visiting our campus every year, our graduates have the support, resources and facilities they need in a constantly changing world and job market.</p>
