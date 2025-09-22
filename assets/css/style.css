@@ -82,7 +82,8 @@ p {
   margin-bottom: 15px;
   line-height: 1.8;
 }
-p strong{
+
+p strong {
   color: #212529;
 }
 
@@ -164,6 +165,21 @@ a.white-under-btn {
 
 .default-btn.black {
   background-color: var(--blackColor);
+}
+
+.shadowOnhover:hover {
+  box-shadow: var(--bs-box-shadow) !important;
+  transition: transform .5s;
+  transition: box-shadow 0.5s ease-in-out 0.05s;
+  transform: scale(1.01);
+}
+
+.featured-icon {
+  padding: 20px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*section-title*/
@@ -1777,7 +1793,8 @@ Academics Section Area CSS
   content: '';
 }
 
-.academics-section .ac-overview .pera-dec h3, .academics-section .ac-overview .pera-dec h2 {
+.academics-section .ac-overview .pera-dec h3,
+.academics-section .ac-overview .pera-dec h2 {
   font-family: 'Lexend', sans-serif;
   margin-bottom: 30px;
   font-size: 30px;
@@ -4031,6 +4048,10 @@ Contact Area CSS
   color: var(--mainColor);
 }
 
+.contact-info.contact-box {
+  border: 1px solid lightgrey;
+}
+
 /*================================================
 Quick Search CSS
 =================================================*/
@@ -4916,10 +4937,11 @@ Section Banner Area CSS
   max-width: 628px;
 }
 
-.section-banner .section-info h2, .section-banner .section-info h1 {
+.section-banner .section-info h2,
+.section-banner .section-info h1 {
   color: var(--whiteColor);
   font-family: 'Lexend', sans-serif;
-  font-size: 48px;
+  font-size: 44px;
 }
 
 .section-banner .section-info p {
@@ -5018,9 +5040,15 @@ Section Banner Area CSS
 .section-banner.bg-22 {
   background-image: url(../img/banner/section-image-22.html);
 }
+
 .section-banner.bgglobal {
   background-image: url(../img/banner/global-part-banner.webp);
 }
+
+.section-banner.bg-crc {
+  background-image: url(../img/banner/crc-bg.jpg);
+}
+
 
 
 /*================================================
@@ -5825,6 +5853,25 @@ Go Top CSS
   box-shadow: none;
 }
 
+.custm-accordion .accordion-item {
+  border: none;
+  margin-bottom: 20px;
+}
+
+.custm-accordion .accordion-button {
+  background-color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 4px 14px;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+.custm-accordion .accordion-button:not(.collapsed) {
+  color: #fff;
+  background-color: var(--mainColor);
+
+}
 
 /* Global Partnership Page */
 .uni-row {
@@ -5914,15 +5961,16 @@ Go Top CSS
   max-width: 50%;
 }
 
-  @media (max-width: 992px) {
+@media (max-width: 992px) {
 
 
-    .global-sec img {
-     
-      max-width: 65%;
-    }
+  .global-sec img {
 
+    max-width: 65%;
   }
+
+}
+
 @media (max-width: 775px) {
   .global-desktop {
     display: none;
@@ -5961,8 +6009,8 @@ Go Top CSS
   }
 
   .uni-text h3 {
-    font-size: 14px ;
-    margin: 0px ;
+    font-size: 14px;
+    margin: 0px;
   }
 
   .uni-text p {
@@ -5976,15 +6024,18 @@ Go Top CSS
   .uni-heading {
     font-size: 20px;
   }
+
   .global-sec img {
     width: 100%;
     max-width: 95%;
   }
+
   .uni-box {
     padding: 15px;
     min-height: 135px;
-}
-.uni-image img {
+  }
+
+  .uni-image img {
     border-radius: 10px;
-}
+  }
 }
