@@ -7,49 +7,34 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Shobhit University</title>
- 
-<?php include 'header.php';?>
+  <style>
+    .navbar-area .navbar .navbar-nav .nav-item .nav-link {
+      color: var(--paragraphColor) !important;
+    }
+
+    .top-area {
+      background-color: #000000e0;
+    }
+  </style>
+  <?php include 'header.php';?>
   <main id="scrollsmoother-container">
 
 
     <!-- Start Clgun Banner Area -->
-    <!-- <section class="owl-carousel slider-courser owl-theme shadow">
-        <div class="item">
-          <img src="/assets/img/banners/discover-you-banner.jpg" alt="" />
-        </div>
-        <div class="item">
-          <img src="/assets/img/banners/slider-image12.webp" alt="" />
-        </div>
-        <div class="item">
-          <img src="/assets/img/banners/SU-12B-WEB.webp" alt="" />
-        </div>
-        <div class="item">
-          <img src="/assets/img/banners/15th-convoation-banner.webp" alt="" />
-        </div>
-        <div class="item">
-          <img
-            src="/assets/img/banners/top-3-banner-website-2024.webp"
-            alt=""
-          />
-        </div>
-        <div class="item">
-          <img src="/assets/img/banners/sud-naac-2022.webp" alt="" />
-        </div>
-        <div class="item">
-          <img src="/assets/img/banners/slider-12.jpg" alt="" />
-        </div>
-        <div class="item">
-          <img src="/assets/img/banners/slider-image-9.webp" alt="" />
-        </div>
-        <div class="item">
-          <img
-            src="/assets/img/banners/sangeetam-banner-website-2024.webp"
-            alt=""
-          />
-        </div>
-      </section> -->
+    <section class="owl-carousel slider-courser owl-theme shadow">
+      <div class="item">
+        <img src="./assets/img/banners/bannerh1.webp" alt="" />
+      </div>
+      <div class="item">
+        <img src="./assets/img/banners/bannerh2.webp" alt="" />
+      </div>
+      <div class="item">
+        <img src="./assets/img/banners/bannerh3.webp" alt="" />
+      </div>
 
-    <section class="main-banner d-flex align-items-center">
+    </section>
+
+    <!-- <section class="main-banner d-flex align-items-center">
       <div class="container">
         <div class="row">
           <div class="col-lg-6 d-flex align-items-center">
@@ -65,7 +50,7 @@
 
               <h4 class="mb-4">Admission Form</h4>
               <form>
-                <!-- Personal Details -->
+               
                 <div class="row mb-3">
                   <div class="col-md-6">
                     <label for="firstName" class="form-label">First Name</label>
@@ -105,7 +90,7 @@
                   </div>
                 </div>
 
-                <!-- Course Selection -->
+               
                 <div class="mb-3">
                   <label for="course" class="form-label">Select Course</label>
                   <select class="form-select form-select-sm" id="course" required>
@@ -119,7 +104,7 @@
                   </select>
                 </div>
 
-                <!-- Submit Button -->
+               
                 <button type="submit" class="btn btn-success w-100 btn-sm">Submit Application</button>
               </form>
 
@@ -127,7 +112,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- End Clgun Banner Area -->
 
     <!-- Start Undergraduate Area -->
@@ -178,42 +163,46 @@
       <div class="container">
         <div class="row g-3">
           <div class="col-md-6 col-lg-3">
-            <div class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
+            <div
+              class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
               <div class="featured-icon bg-light ">
-                  <i class="fa-solid fa-award fs-2" style="color:#f69527;"></i>
+                <i class="fa-solid fa-award fs-2" style="color:#f69527;"></i>
               </div>
-              
+
               <h5>NAAC "A" Grade</h5>
               <p>Accredited by National Assessment and Accreditation Council</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
-             <div class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
+            <div
+              class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
               <div class="featured-icon bg-light ">
-                  <i class="fa-solid fa-globe fs-2 text-primary" ></i>
+                <i class="fa-solid fa-globe fs-2 text-primary"></i>
               </div>
-              
+
               <h5>Global Partnerships</h5>
               <p>Collaborations with universities in USA, UK, Australia</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
-             <div class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
+            <div
+              class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
               <div class="featured-icon bg-light ">
-                  <i class="fa-solid fa-users fs-2 text-success" ></i>
+                <i class="fa-solid fa-users fs-2 text-success"></i>
               </div>
-              
+
               <h5>500+ Faculty</h5>
               <p>Experienced faculty members with industry expertise</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
-             <div class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
+            <div
+              class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
               <div class="featured-icon bg-light ">
 
-                  <i class="fa-solid fa-calendar-days fs-2 text-info"></i>
+                <i class="fa-solid fa-calendar-days fs-2 text-info"></i>
               </div>
-              
+
               <h5>Flexible Learning</h5>
               <p>Regular, distance, and online learning modes availablecil</p>
             </div>
@@ -222,7 +211,7 @@
       </div>
     </section>
 
-<!-- End Featured Area -->
+    <!-- End Featured Area -->
 
     <!-- Start Academics Area -->
     <section class="academics-area ptb-70">
@@ -886,10 +875,12 @@
             </div>
           </div>
         </div> -->
-    <div class="section-title" data-aos="fade-up" data-aos-delay="100">
-        <h2 class="title-anim">Our Leading Recruiters</h2>
-      </div>
-      <p class="text-center">At Shobhit University, there is an intensive focus on getting each and every student industry ready. With more than 2000 recruiters visiting our campus every year, our graduates have the support, resources and facilities they need in a constantly changing world and job market.</p>
+        <div class="section-title" data-aos="fade-up" data-aos-delay="100">
+          <h2 class="title-anim">Our Leading Recruiters</h2>
+        </div>
+        <p class="text-center">At Shobhit University, there is an intensive focus on getting each and every student
+          industry ready. With more than 2000 recruiters visiting our campus every year, our graduates have the support,
+          resources and facilities they need in a constantly changing world and job market.</p>
         <img src="./assets/img/mentors.webp" width="100%" alt="SU Placements">
       </div>
     </section>
@@ -1618,7 +1609,7 @@
         </section> -->
     <!-- End Subscribe Area 3 -->
 
-   <?php include 'footer.php';?>
-</body>
+    <?php include 'footer.php';?>
+    </body>
 
 </html>

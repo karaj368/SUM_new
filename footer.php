@@ -114,14 +114,13 @@
               <div class="footer-widget">
                 <h4>Academics</h4>
                 <ul >
-            <li><a href="https://www.shobhituniversity.ac.in/school/engineering-and-technology.php" title="Engineering &amp; Technology"><i class="bx bx-chevron-right"></i> Engineering &amp; Technology</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/school/biological-engineering-and-sciences.php" title="Biological Engineering &amp; Sciences"><i class="bx bx-chevron-right"></i> Biological Engineering &amp; Sciences</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/school/business-studies.php" title="Business Studies"><i class="bx bx-chevron-right"></i> Business Studies</a></li>
-          
-            <li><a href="https://www.shobhituniversity.ac.in/school/law-and-constitutional.php" title="Law &amp; Constitutional"><i class="bx bx-chevron-right"></i> Law &amp; Constitutional</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/school/education.php" title="Education"><i class="bx bx-chevron-right"></i> Education</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/school/research-programmes.php" title="Research Programmes"><i class="bx bx-chevron-right"></i> Research Programmes</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/school/basic-and-applied-sciences.php" title="Basic &amp; Applied Sciences"><i class="bx bx-chevron-right"></i> Basic &amp; Applied Sciences</a></li>
+            <li><a href="school/engineering-and-technology.php" title="Engineering &amp; Technology"><i class="bx bx-chevron-right"></i> Engineering &amp; Technology</a></li>
+            <li><a href="school/biological-engineering-and-sciences.php" title="Biological Engineering &amp; Sciences"><i class="bx bx-chevron-right"></i> Biological Engineering &amp; Sciences</a></li>
+            <li><a href="school/business-studies.php" title="Business Studies"><i class="bx bx-chevron-right"></i> Business Studies</a></li>
+            <li><a href="school/law-and-constitutional.php" title="Law &amp; Constitutional"><i class="bx bx-chevron-right"></i> Law &amp; Constitutional</a></li>
+            <li><a href="school/education.php" title="Education"><i class="bx bx-chevron-right"></i> Education</a></li>
+            <li><a href="school/research-programmes.php" title="Research Programmes"><i class="bx bx-chevron-right"></i> Research Programmes</a></li>
+            <li><a href="school/basic-and-applied-sciences.php" title="Basic &amp; Applied Sciences"><i class="bx bx-chevron-right"></i> Basic &amp; Applied Sciences</a></li>
             
           </ul>
               </div>
@@ -131,15 +130,18 @@
                 <h4>Other Links</h4>
                 <ul>
            
-            <li><a href="https://www.shobhituniversity.ac.in/privacy.php" target="_blank" title="Privacy"><i class="bx bx-chevron-right"></i> Privacy</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/naac/pdf/f-ess-r.pdf"><i class="bx bx-chevron-right"></i> eSSR</a></li>
+            <li><a href="privacy.php" title="Privacy Policy"><i class="bx bx-chevron-right"></i> Privacy Policy</a></li>
+            <li><a href="technical-business-incubator.php"><i class="bx bx-chevron-right"></i> SUTBI</a></li>
+            <li><a href="https://www.shobhituniversity.ac.in/naac/pdf/f-ess-r.pdf" target="_blank" ><i class="bx bx-chevron-right"></i> eSSR</a></li>
             <li><a href="https://www.shobhituniversity.ac.in/pdf/Shobhit-University-Fee-Payment-Refund-pdf.pdf" target="_blank" title="Fee Policy"><i class="bx bx-chevron-right"></i> Fee Policy</a></li>
             <li><a href="https://www.shobhituniversity.ac.in/pdf/public-notice-shobhit-university.pdf" target="_blank" title="Public Notice"><i class="bx bx-chevron-right"></i> Public Notice</a></li>
+            <li><a href="https://www.shobhituniversity.ac.in//pdf/SUM_ugc-public-self-disclosure.pdf" target="_blank" title=" UGC Mandatory Disclosure"><i class="bx bx-chevron-right"></i> UGC Mandatory Disclosure</a></li>
             <li><a href="https://www.shobhituniversity.ac.in/pdf/notices/ODL_UGC_20240319151157_1.pdf" target="_blank" title="Public Notice"><i class="bx bx-chevron-right"></i> UGC Public Notice Distance online Program</a></li>
             <li><a href="https://www.shobhituniversity.ac.in/pdf/standing-orders-for-students.pdf" target="_blank" title="Standing Orders"><i class="bx bx-chevron-right"></i> Standing Orders</a></li>
-            <li><a href="technical-business-incubator.php"><i class="bx bx-chevron-right"></i> SUTBI</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/pearson-undergraduate-entrance-exam.php" target="_blank" title="Pearson Undergraduate Entrance Exam"><i class="bx bx-chevron-right"></i> Pearson Undergraduate Entrance Exam</a></li>
-           
+            <li><a href="pearson-undergraduate-entrance-exam.php" target="_blank" title="Pearson Undergraduate Entrance Exam"><i class="bx bx-chevron-right"></i> Pearson Undergraduate Entrance Exam</a></li>
+            <li><a href="https://www.shobhituniversity.ac.in/pdf/ANTI-RAGGING-NOTICE.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Notice</a></li>
+            <li><a href="https://www.shobhituniversity.ac.in/pdf/Office Order-Anti Ragging Committee.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Committee</a></li>
+            <li><a href="https://www.shobhituniversity.ac.in/pdf/Office Order-Anti-Ragging Squad.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Squad</a></li>
           </ul>
               </div>
             </div>
@@ -177,10 +179,10 @@
 </footer>
 <!-- End Footer Area -->
 </main>
-<div class="footer-fixed-bar">
+<!-- <div class="footer-fixed-bar">
   <button type="button" class="page-scroll" aria-label="Shobhit University Homepage">APPLY NOW for CUCET - 2025
     (Registration End Date (Phase - 1): 30th May 2025)</button>
-</div>
+</div> -->
 <div class="go-top active">
   <i class="bx bx-up-arrow-alt"></i>
 </div>
