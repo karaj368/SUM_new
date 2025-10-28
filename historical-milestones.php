@@ -14,7 +14,9 @@
             <div class="banner-spacing">
                 <div class="section-info">
                     <h1 data-aos="fade-up" data-aos-delay="100">Historical Milestones </h1>
-                    
+                         <nav class="breadcrumb" id="breadcrumb">
+                            <!-- Breadcrumb links will be inserted here dynamically -->
+                         </nav>
                 </div>
             </div>
         </div>

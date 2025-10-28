@@ -342,4 +342,26 @@
 
 }(jQuery));
 
+// Start Breadcrumb
+        function generateBreadcrumb() {
+            const breadcrumbContainer = document.getElementById("breadcrumb");
+            const pathArray = window.location.pathname.split("/").filter(p => p);
+            
+            let breadcrumbHTML = `<a href="/">Home</a>`;
+            let fullPath = "";
 
+            pathArray.forEach((segment, index) => {
+                fullPath += `/${segment}`;
+                if (index === pathArray.length - 1) {
+                    breadcrumbHTML += ` <span>/</span> <span>${decodeURIComponent(segment)}</span>`;
+                } else {
+                    breadcrumbHTML += ` <span>/</span> <a href="${fullPath}">${decodeURIComponent(segment)}</a>`;
+                }
+            });
+
+            breadcrumbContainer.innerHTML = breadcrumbHTML;
+        }
+
+        document.addEventListener("DOMContentLoaded", generateBreadcrumb);
+  
+// End Breadcrumb
