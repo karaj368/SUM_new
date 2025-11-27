@@ -35,7 +35,7 @@
                             <h2>Our Pillar of Strength:</h2>
                             <p>Dr. Shobhit Kumar, embodying the essence of transformative leadership, helms Shobhit University as its Chairman while also guiding the NICE Society as its Managing Trustee. His work transcends the conventional boundaries of education, reaching into the heart of rural India to ignite change through the provision of technical education and healthcare. His efforts have catalyzed economic revitalization in these areas, enhancing living standards and stimulating a reverse migration, as individuals return to their roots attracted by burgeoning opportunities.
 
-Under his stewardship, the Shri J.P. Mathur Charitable Trust flourishes, engaging in a spectrum of national initiatives steered by the wisdom of renowned statesmen. Dr. Kumar's approach is not just about educational expansion but about nurturing the seeds of social consciousness and empowerment within the rural fabric of India.</p>
+                              Under his stewardship, the Shri J.P. Mathur Charitable Trust flourishes, engaging in a spectrum of national initiatives steered by the wisdom of renowned statesmen. Dr. Kumar's approach is not just about educational expansion but about nurturing the seeds of social consciousness and empowerment within the rural fabric of India.</p>
                          
                             <h2>Our Symbol of Team Spirit:</h2>
                             <p>Kunwar Shekhar Vijendra, as the Chancellor of Shobhit University, champions the cause of educational and societal development with untiring zeal. His contribution as the Executive Trustee of NICE Society Trust and subsequent educational and health initiatives stand as testaments to his vision for an empowered youth, capable of leading transformative change. His engagement with various social organizations and advisory capacities in numerous trusts and councils underscores a deep-seated commitment to fostering societal progress.</p>
@@ -74,67 +74,9 @@ Under his stewardship, the Shri J.P. Mathur Charitable Trust flourishes, engagin
     </section>
     <!-- End About Us Area -->
    
-    <!-- Campus  -->
-    <section class="campus-area ptb-100">
-        <div class="container-fluaid">
-          <div class="section-title aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-            <div class="sub-title">
-              <i class="bx bxs-graduation"></i>
-              <p>The Campus Experience</p>
-            </div>
-            <h2 class="title-anim">One University, Many Places</h2>
-          </div>
-
-          <div class="campus-slider owl-carousel owl-theme owl-loaded owl-drag">
-            
-            
-            
-          <div class="owl-stage-outer owl-height" style="height: 487.75px;"><div class="owl-stage" style="transition: 1s; width: 6650px; transform: translate3d(-2375px, 0px, 0px);"><div class="owl-item cloned" style="width: 930px; margin-right: 20px;"><div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/all-img/campus-image-2.png" alt="image">
-              <div class="content">
-                <h2 class="title-anim">Law School</h2>
-                <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-              </div>
-            </div></div><div class="owl-item cloned" style="width: 930px; margin-right: 20px;"><div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/all-img/campus-image-3.png" alt="image">
-              <div class="content">
-                <h2 class="title-anim">Humanities</h2>
-                <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-              </div>
-            </div></div><div class="owl-item" style="width: 930px; margin-right: 20px;"><div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/all-img/campus-image-1.png" alt="image">
-              <div class="content">
-                <h2 class="title-anim">Biomedical</h2>
-                <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-              </div>
-            </div></div><div class="owl-item active center" style="width: 930px; margin-right: 20px;"><div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/all-img/campus-image-2.png" alt="image">
-              <div class="content">
-                <h2 class="title-anim">Law School</h2>
-                <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-              </div>
-            </div></div><div class="owl-item active" style="width: 930px; margin-right: 20px;"><div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/all-img/campus-image-3.png" alt="image">
-              <div class="content">
-                <h2 class="title-anim">Humanities</h2>
-                <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-              </div>
-            </div></div><div class="owl-item cloned" style="width: 930px; margin-right: 20px;"><div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/all-img/campus-image-1.png" alt="image">
-              <div class="content">
-                <h2 class="title-anim">Biomedical</h2>
-                <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-              </div>
-            </div></div><div class="owl-item cloned" style="width: 930px; margin-right: 20px;"><div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/all-img/campus-image-2.png" alt="image">
-              <div class="content">
-                <h2 class="title-anim">Law School</h2>
-                <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-              </div>
-            </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
-        </div>
-      </section>
-    <!-- End Campus -->
+    <!-- Start Campus Area -->
+     <?php include 'include/placeses-slider.php';?>
+    <!-- End Campus Area -->
 
   <?php include 'footer.php';?>
   </body>

@@ -37,7 +37,7 @@
                                         <div class="info-details">
                                             <h5 class="mb-4">Shobhit Institute of Engineering & Technology, Meerut</h5>
                                             <ul>
-                                                <li><i class='bx bxs-phone-call'></i> Admission Helpline: <a href="tel:+917617505016">+91 76175-05016</a></li>
+                                                <li><i class='bx bxs-phone-call'></i> Admission Helpline: <a href="tel:+919870265521">+91 98702 65521</a></li>
                                                 <li><i class='bx bxs-phone-call'></i> Phone: <a href="tel:+919675190001">+91 96751 90001</a></li>
                                                 <li><i class="fa-solid fa-fax"></i>Fax: +91-121- 2575724</li>
                                                 <li><i class='bx bxs-envelope'></i><a class="info-mail" href="mailto:mail@shobhituniversity.ac.in">mail@shobhituniversity.ac.in</a></li>

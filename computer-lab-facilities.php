@@ -32,7 +32,27 @@
         <div class="col-lg-9">
           <div class="ac-overview">
             <div class="pera-dec">
-              
+              <p>
+                Shobhit University is the first University in the region to join the National Knowledge Network
+                 (NKN) and centrally sponsored scheme called “National Mission on Education through Information
+                  & Communication Technology” under the Ministry of Human Resource Development. The project,
+                   which is worth Rs. 20 million, has also entered into collaborative agreement with BSNL for 
+                   1024 Mbps connectivity for ten years.</p>
+                   <p>
+                   This joint venture of Shobhit University has put it at the forefront of the Information 
+                   and Communication Technology revolution. The computer centers/labs are artistically and 
+                   ergonomically designed, where students get an opportunity to develop their skills in tune with 
+                   the global needs and international standards.</p>
+                   <p>
+                   The Shobhit University Computer Services (SUCS) will issue you with a computer
+                    username and password before you join the University to allow you to access all
+                     our services. We have over 1000 computers across the library and our four general access 
+                     computing labs. In addition, many departments have their own computing labs and there are
+                      terminals in the foyers of most buildings - whether you want to check email or write your 
+                      thesis, computing access is always available. There is wireless internet access available 
+                      from virtually all public areas of campus, and internet access is provided in all on campus
+                       accommodation.</p>
+                       <p><strong><a href="https://www.shobhituniversity.ac.in/pdf/naac/IT-policy.pdf" target="_blank"> IT Policy</a></strong></p>
             </div>
           </div>
         </div>
@@ -44,96 +64,9 @@
   </section>
   <!-- End About Us Area -->
 
-  <!-- Campus Slider  -->
-  <section class="campus-area ptb-100">
-    <div class="container-fluaid">
-      <div class="section-title aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-        <div class="sub-title">
-          <i class="bx bxs-graduation"></i>
-          <p>The Campus Experience</p>
-        </div>
-        <h2 class="title-anim">One University, Many Places</h2>
-      </div>
-
-      <div class="campus-slider owl-carousel owl-theme owl-loaded owl-drag">
-
-
-
-        <div class="owl-stage-outer owl-height" style="height: 487.75px;">
-          <div class="owl-stage" style="transition: 1s; width: 6650px; transform: translate3d(-2375px, 0px, 0px);">
-            <div class="owl-item cloned" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/all-img/campus-image-2.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Law School</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item cloned" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-                <img src="assets/img/all-img/campus-image-3.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Humanities</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                <img src="assets/img/all-img/campus-image-1.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Biomedical</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item active center" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/all-img/campus-image-2.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Law School</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item active" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-                <img src="assets/img/all-img/campus-image-3.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Humanities</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item cloned" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                <img src="assets/img/all-img/campus-image-1.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Biomedical</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item cloned" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/all-img/campus-image-2.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Law School</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
-              aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span
-              aria-label="Next">›</span></button></div>
-        <div class="owl-dots disabled"></div>
-      </div>
-    </div>
-  </section>
-  <!-- End Campus -->
+    <!-- Start Campus Area -->
+     <?php include 'include/placeses-slider.php';?>
+    <!-- End Campus Area -->
 
   <?php include 'footer.php';?>
   </body>
