@@ -101,6 +101,36 @@
 			}
 		}
 	});
+	 // Placements Students slides
+	 $('.placementSlider').owlCarousel({
+		nav: false,
+		center: true,
+		loop: true,
+		dots: false,
+		margin: 30,
+		autoplay: true,
+        slideTransition: 'linear',
+		autoplayTimeout: 5000,
+        autoplaySpeed: 5000,
+        autoplayHoverPause: true,
+		responsive: {
+			0: {
+				items: 2
+			},
+			576: {
+				items: 2
+			},
+			768: {
+				items: 3
+			},
+			992: {
+				items: 4
+			},
+			1200: {
+				items: 5
+			}
+		}
+	});
 	 // Courses slides
 	 $('.ranking-slider').owlCarousel({
 		nav: false,

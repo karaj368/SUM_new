@@ -7,12 +7,12 @@
           <div class="left-content">
             <p>
               <i class="bx bx-support"></i> Admission Helpline:
-              <a href="tel:+917617505016"> +91 76175-05016</a>
+              <a href="tel:+919870265521"> +91 98702 65521</a>
             </p>
           </div>
         </div>
-        <div class="col-lg-6 col-sm-6 col-12">
-          <div class="right-content">
+        <div class="col-lg-6 col-sm-6 col-12 d-none d-sm-block">
+          <div class="right-content gap-3 d-flex justify-content-end align-items-center">
             <span>Follow Us</span>
             <ul>
               <li>
@@ -29,7 +29,12 @@
                 <a href="https://in.linkedin.com/school/shobhit-university" target="_blank"><i
                     class="bx bxl-linkedin-square"></i></a>
               </li>
-
+               <li>
+                <a href="https://www.youtube.com/user/shobhituniversityin" target="_blank"><i class="bx bxl-youtube"></i></a>
+              </li>
+              <li>
+                <a href="https://www.flickr.com/photos/146666627@N05/albums" target="_blank"><i class="fa-brands fa-flickr"></i></a>
+              </li>
             </ul>
           </div>
         </div>
@@ -40,35 +45,39 @@
   <div class="footer-widget-info ptb-100">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-lg-3 col-sm-6 col-md-6">
+        <div class="col-lg-3 col-md-12">
           <div class="footer-widget">
             <div class="image">
-              <img src="assets/img/logo/logo.png" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; border-radius: 10px;" alt="Shobhit University" />
+              <img src="<?php echo $base_url;?>assets/img/logo/logo.png" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; border-radius: 10px;" alt="Shobhit University" />
             </div>
             <p>
               Shobhit Institute of Engineering & Technology, Meerut<br />
               (NAAC ‘A’ Grade Accredited Deemed-to-be University)<br />
               NH-58, Modipuram, Meerut - 250 110
             </p>
-            <div class="info-links">
-              <a href="tel:+917617505016"> +91-7617505016</a><br>
+            <div class="info-links d-none d-sm-block">
+              <a href="tel:+919870265521"> +91-98702 65521</a><br>
+              <a href="mailto:mail@shobhituniversity.ac.in">mail@shobhituniversity.ac.in</a>
+            </div>
+            <div class="info-links d-block d-sm-none">
+              <a href="tel:+919870265521"> +91-98702 65521</a>
               <a href="mailto:mail@shobhituniversity.ac.in">mail@shobhituniversity.ac.in</a>
             </div>
           </div>
         </div>
-        <div class="col-lg-9 col-sm-6 col-md-6">
+        <div class="col-lg-9 col-md-12">
           <div class="row">
             <div class="col-lg-3 col-sm-6 col-md-6">
               <div class="footer-widget">
                 <h4>About</h4>
                 <ul>
-                  <li><a href="university-overview.php"
+                  <li><a href="<?php echo $base_url;?>university-overview.php"
                       title="University Overview"><i class="bx bx-chevron-right"></i> University Overview</a></li>
-                  <li><a href="believe-vision-and-mission.php"
+                  <li><a href="<?php echo $base_url;?>believe-vision-and-mission.php"
                       title="Believe, Vision &amp; Mission"><i class="bx bx-chevron-right"></i> Believe, Vision &amp; Mission</a></li>
-                  <li><a href="our-inspirer.php" title="Our Inspirer"><i class="bx bx-chevron-right"></i> Our
+                  <li><a href="<?php echo $base_url;?>our-inspirer.php" title="Our Inspirer"><i class="bx bx-chevron-right"></i> Our
                       Inspirer</a></li>
-                  <li><a href="recognitions-and-approvals.php"
+                  <li><a href="<?php echo $base_url;?>recognitions-and-approvals.php"
                       title="Recognitions and Approvals"><i class="bx bx-chevron-right"></i> Recognitions and Approvals</a></li>
                   <li><a href="https://www.shobhituniversity.ac.in/ranking-and-awards.php"
                       title="Ranking and Awards"><i class="bx bx-chevron-right"></i> Ranking and Awards</a></li>
@@ -79,12 +88,12 @@
                   <li><a href="https://www.shobhituniversity.ac.in/pdf/UGC-DEB_OL ODL_2025.pdf"
                       title="UGC-OL ODL 2025 Application Form" target="_blank"><i class="bx bx-chevron-right"></i> UGC-OL ODL 2025 Application Form</a></li>
                   <!-- <li><a href="https://www.shobhituniversity.ac.in/SIET-NIRF.php" target="_blank" title="National Institutional Ranking Framework">SIET-NIRF</a></li>-->
-                  <li><a href="nirf.php"
+                  <li><a href="<?php echo $base_url;?>nirf.php"
                       title="National Institutional Ranking Framework"><i class="bx bx-chevron-right"></i> NIRF</a></li>
-                   <li><a href="image-gallery.php" title="Image Gallery"><i class="bx bx-chevron-right"></i> Image Gallery</a></li>
+                   <li><a href="<?php echo $base_url;?>image-gallery.php" title="Image Gallery"><i class="bx bx-chevron-right"></i> Image Gallery</a></li>
             <!--<li><a href="https://www.shobhituniversity.ac.in/media-centre.php">Media Centre</a></li>-->
-             <li><a href="media-coverage.php"><i class="bx bx-chevron-right"></i> Media Centre</a></li>
-            <li><a href="careers.php" title="Careers"><i class="bx bx-chevron-right"></i> Careers</a></li>
+             <li><a href="<?php echo $base_url;?>media-coverage.php"><i class="bx bx-chevron-right"></i> Media Centre</a></li>
+            <li><a href="<?php echo $base_url;?>careers.php" title="Careers"><i class="bx bx-chevron-right"></i> Careers</a></li>
 
                 </ul>
               </div>
@@ -93,19 +102,19 @@
               <div class="footer-widget">
                 <h4>Admissions</h4>
                 <ul >
-            <li><a href="why-choose-shobhit.php" title="Why Choose Shobhit"><i class="bx bx-chevron-right"></i> Why Choose Shobhit</a> </li>
+            <li><a href="<?php echo $base_url;?>why-choose-shobhit.php" title="Why Choose Shobhit"><i class="bx bx-chevron-right"></i> Why Choose Shobhit</a> </li>
             <li><a href="https://admission.shobhituniversity.ac.in/" title="How to Apply"><i class="bx bx-chevron-right"></i> How to Apply</a></li>
-            <li><a href="fee-structure.php" title="Fee Structure"><i class="bx bx-chevron-right"></i> Course Fee</a></li>
-            <li><a href="admission-flow.php" title="Admission Flow"><i class="bx bx-chevron-right"></i> Admission Flow</a></li>
-            <li><a href="payment-procedure.php" title="Payment Procedure"><i class="bx bx-chevron-right"></i> Payment Procedure</a></li>
+            <li><a href="<?php echo $base_url;?>fee-structure.php" title="Fee Structure"><i class="bx bx-chevron-right"></i> Course Fee</a></li>
+            <li><a href="<?php echo $base_url;?>admission-flow.php" title="Admission Flow"><i class="bx bx-chevron-right"></i> Admission Flow</a></li>
+            <li><a href="<?php echo $base_url;?>payment-procedure.php" title="Payment Procedure"><i class="bx bx-chevron-right"></i> Payment Procedure</a></li>
           </ul>
            <h4 class="pt-3">Placements</h4>
                <ul>
-            <li><a href="placements-overview.php" title="Overview"><i class="bx bx-chevron-right"></i> Overview</a></li>
-            <li><a href="utdc-office.php" title="UTDC Office"><i class="bx bx-chevron-right"></i> UTDC Office</a> </li>
-            <li><a href="industry-engagement-initiative.php" title="Industry Engagement Initiative"><i class="bx bx-chevron-right"></i> Industry Engagement Initiative</a></li>
-            <li><a href="our-recruiters.php" title="Our Recruiters"><i class="bx bx-chevron-right"></i> Our Recruiters</a></li>
-            <li><a href="placement-announcements.php" title="Announcements"><i class="bx bx-chevron-right"></i> Placement Announcements</a></li>
+            <li><a href="<?php echo $base_url;?>placements-overview.php" title="Overview"><i class="bx bx-chevron-right"></i> Overview</a></li>
+            <li><a href="<?php echo $base_url;?>utdc-office.php" title="UTDC Office"><i class="bx bx-chevron-right"></i> UTDC Office</a> </li>
+            <li><a href="<?php echo $base_url;?>industry-engagement-initiative.php" title="Industry Engagement Initiative"><i class="bx bx-chevron-right"></i> Industry Engagement Initiative</a></li>
+            <li><a href="<?php echo $base_url;?>our-recruiters.php" title="Our Recruiters"><i class="bx bx-chevron-right"></i> Our Recruiters</a></li>
+            <li><a href="<?php echo $base_url;?>placement-announcements.php" title="Announcements"><i class="bx bx-chevron-right"></i> Placement Announcements</a></li>
           </ul>
 
               </div>
@@ -114,13 +123,13 @@
               <div class="footer-widget">
                 <h4>Academics</h4>
                 <ul >
-            <li><a href="school/engineering-and-technology.php" title="Engineering &amp; Technology"><i class="bx bx-chevron-right"></i> Engineering &amp; Technology</a></li>
-            <li><a href="school/biological-engineering-and-sciences.php" title="Biological Engineering &amp; Sciences"><i class="bx bx-chevron-right"></i> Biological Engineering &amp; Sciences</a></li>
-            <li><a href="school/business-studies.php" title="Business Studies"><i class="bx bx-chevron-right"></i> Business Studies</a></li>
-            <li><a href="school/law-and-constitutional.php" title="Law &amp; Constitutional"><i class="bx bx-chevron-right"></i> Law &amp; Constitutional</a></li>
-            <li><a href="school/education.php" title="Education"><i class="bx bx-chevron-right"></i> Education</a></li>
-            <li><a href="school/research-programmes.php" title="Research Programmes"><i class="bx bx-chevron-right"></i> Research Programmes</a></li>
-            <li><a href="school/basic-and-applied-sciences.php" title="Basic &amp; Applied Sciences"><i class="bx bx-chevron-right"></i> Basic &amp; Applied Sciences</a></li>
+            <li><a href="<?php echo $base_url;?>school/engineering-and-technology.php" title="Engineering &amp; Technology"><i class="bx bx-chevron-right"></i> Engineering &amp; Technology</a></li>
+            <li><a href="<?php echo $base_url;?>school/biological-engineering-and-sciences.php" title="Biological Engineering &amp; Sciences"><i class="bx bx-chevron-right"></i> Biological Engineering &amp; Sciences</a></li>
+            <li><a href="<?php echo $base_url;?>school/business-studies.php" title="Business Studies"><i class="bx bx-chevron-right"></i> Business Studies</a></li>
+            <li><a href="<?php echo $base_url;?>school/law-and-constitutional.php" title="Law &amp; Constitutional"><i class="bx bx-chevron-right"></i> Law &amp; Constitutional</a></li>
+            <li><a href="<?php echo $base_url;?>school/education.php" title="Education"><i class="bx bx-chevron-right"></i> Education</a></li>
+            <li><a href="<?php echo $base_url;?>school/research-programmes.php" title="Research Programmes"><i class="bx bx-chevron-right"></i> Research Programmes</a></li>
+            <li><a href="<?php echo $base_url;?>school/basic-and-applied-sciences.php" title="Basic &amp; Applied Sciences"><i class="bx bx-chevron-right"></i> Basic &amp; Applied Sciences</a></li>
             
           </ul>
               </div>
@@ -129,21 +138,48 @@
               <div class="footer-widget">
                 <h4>Other Links</h4>
                 <ul>
-           
-            <li><a href="privacy.php" title="Privacy Policy"><i class="bx bx-chevron-right"></i> Privacy Policy</a></li>
-            <li><a href="technical-business-incubator.php"><i class="bx bx-chevron-right"></i> SUTBI</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/naac/pdf/f-ess-r.pdf" target="_blank" ><i class="bx bx-chevron-right"></i> eSSR</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/pdf/Shobhit-University-Fee-Payment-Refund-pdf.pdf" target="_blank" title="Fee Policy"><i class="bx bx-chevron-right"></i> Fee Policy</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/pdf/public-notice-shobhit-university.pdf" target="_blank" title="Public Notice"><i class="bx bx-chevron-right"></i> Public Notice</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in//pdf/SUM_ugc-public-self-disclosure.pdf" target="_blank" title=" UGC Mandatory Disclosure"><i class="bx bx-chevron-right"></i> UGC Mandatory Disclosure</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/pdf/notices/ODL_UGC_20240319151157_1.pdf" target="_blank" title="Public Notice"><i class="bx bx-chevron-right"></i> UGC Public Notice Distance online Program</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/pdf/standing-orders-for-students.pdf" target="_blank" title="Standing Orders"><i class="bx bx-chevron-right"></i> Standing Orders</a></li>
-            <li><a href="pearson-undergraduate-entrance-exam.php" target="_blank" title="Pearson Undergraduate Entrance Exam"><i class="bx bx-chevron-right"></i> Pearson Undergraduate Entrance Exam</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/pdf/ANTI-RAGGING-NOTICE.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Notice</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/pdf/Office Order-Anti Ragging Committee.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Committee</a></li>
-            <li><a href="https://www.shobhituniversity.ac.in/pdf/Office Order-Anti-Ragging Squad.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Squad</a></li>
-          </ul>
+                   <li><a href="<?php echo $base_url;?>privacy.php" title="Privacy Policy"><i class="bx bx-chevron-right"></i> Privacy Policy</a></li>
+                   <li><a href="<?php echo $base_url;?>technical-business-incubator.php"><i class="bx bx-chevron-right"></i> SUTBI</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in/naac/pdf/f-ess-r.pdf" target="_blank" ><i class="bx bx-chevron-right"></i> eSSR</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in/pdf/Shobhit-University-Fee-Payment-Refund-pdf.pdf" target="_blank" title="Fee Policy"><i class="bx bx-chevron-right"></i> Fee Policy</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in/pdf/public-notice-shobhit-university.pdf" target="_blank" title="Public Notice"><i class="bx bx-chevron-right"></i> Public Notice</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in//pdf/SUM_ugc-public-self-disclosure.pdf" target="_blank" title=" UGC Mandatory Disclosure"><i class="bx bx-chevron-right"></i> UGC Mandatory Disclosure</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in/pdf/notices/ODL_UGC_20240319151157_1.pdf" target="_blank" title="Public Notice"><i class="bx bx-chevron-right"></i> UGC Public Notice Distance online Program</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in/pdf/standing-orders-for-students.pdf" target="_blank" title="Standing Orders"><i class="bx bx-chevron-right"></i> Standing Orders</a></li>
+                   <li><a href="<?php echo $base_url;?>pearson-undergraduate-entrance-exam.php" title="Pearson Undergraduate Entrance Exam"><i class="bx bx-chevron-right"></i> Pearson Undergraduate Entrance Exam</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in/pdf/ANTI-RAGGING-NOTICE.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Notice</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in/pdf/Office Order-Anti Ragging Committee.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Committee</a></li>
+                   <li><a href="https://www.shobhituniversity.ac.in/pdf/Office Order-Anti-Ragging Squad.pdf" target="_blank"><i class="bx bx-chevron-right"></i> Anti Ragging Squad</a></li>
+                </ul>
               </div>
+              <div class="d-block d-sm-none mt-4">
+          <div class="right-content gap-3 d-flex flex-column justify-content-start align-items-start">
+            <h4>Follow Us</h4>
+            <ul>
+              <li>
+                <a href="https://www.facebook.com/ShobhitUniversityIndia/" target="_blank"><i
+                    class="bx bxl-facebook"></i></a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/shobhituniv" target="_blank"><i class="bx bxl-instagram-alt"></i></a>
+              </li>
+              <li>
+                <a href="https://twitter.com/shobhituniv" target="_blank"><i class="bx bxl-twitter"></i></a>
+              </li>
+              <li>
+                <a href="https://in.linkedin.com/school/shobhit-university" target="_blank"><i
+                    class="bx bxl-linkedin-square"></i></a>
+              </li>
+             <li>
+                <a href="https://www.youtube.com/user/shobhituniversityin" target="_blank"><i class="bx bxl-youtube"></i></a>
+              </li>
+              <li>
+                <a href="https://www.flickr.com/photos/146666627@N05/albums" target="_blank"><i class="fa-brands fa-flickr"></i></a>
+              </li>
+
+            </ul>
+          </div>
+        </div>
             </div>
           </div>
 
@@ -155,24 +191,14 @@
   <div class="copy-right-area">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4 col-xm-6">
-          <div class="cpr-left">
+        <div class="col-lg-12">
+          <div class="cpr-left text-center">
             <p>
-              Copyright© <a href="https://www.shobhituniversity.ac.in" target="_blank">Shobhit University</a>, All
-              rights
-              reserved.
+              Copyright© <a href="<?php echo $base_url;?>" target="_blank">Shobhit University</a>, All rights reserved.
             </p>
           </div>
         </div>
-        <div class="col-lg-8 col-xm-6">
-          <div class="cpr-right">
-            <ul>
-              <li><a href="#">Term of servicess</a></li>
-              <li><a href="#">Privacy Policy</a></li>
-              <li><a href="#">Cookie Policy</a></li>
-            </ul>
-          </div>
-        </div>
+      
       </div>
     </div>
   </div>
@@ -189,9 +215,10 @@
 
 <!-- Links of JS files -->
 <!-- Bootstrap 5 JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-<script src="assets/js/aos.js"></script>
-<script src="assets/js/magnific-popup.min.js"></script>
-<script src="assets/js/owl.carousel.min.js"></script>
-<script src="assets/js/main.js"></script>
+<script src="<?php echo $base_url;?>assets/js/jquery.min.js"></script>
+<script src="<?php echo $base_url;?>assets/js/bootstrap.bundle.min.js"></script>
+<script src="<?php echo $base_url;?>assets/js/aos.js"></script>
+<script src="<?php echo $base_url;?>assets/js/magnific-popup.min.js"></script>
+<script src="<?php echo $base_url;?>assets/js/owl.carousel.min.js"></script>
+<script src="<?php echo $base_url;?>assets/js/main.js"></script>
+<script type="text/javascript">var s=document.createElement("script");  s.type="text/javascript"; s.async=true; s.src="https://widgets.nopaperforms.com/emwgts.js";  document.body.appendChild(s);</script> 

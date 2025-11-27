@@ -29,8 +29,8 @@ $currentPage = basename($_SERVER['PHP_SELF']);
                <li><a href="best-practices.php" class="<?php if($currentPage=='best-practices.php'){echo 'active';} ?>"  title="Best Practices"> Best Practices</a></li>
                <li><a href="inst-dist.php" class="<?php if($currentPage=='inst-dist.php'){echo 'active';} ?>"  title="Institutional Distinctiveness"> Institutional Distinctiveness</a></li>
                <li><a href="sports-and-recreation.php" class="<?php if($currentPage=='sports-and-recreation.php'){echo 'active';} ?>"  title="Sports and Recreation"> Sports and Recreation</a></li>
-               <li><a href="su-media-centre.php" class="<?php if($currentPage=='su-media-centre.php'){echo 'active';} ?>"  title="Banking & Postal Services"> Banking & Postal Services</a></li>
-               <li><a href="banking-and-postal-services.php" class="<?php if($currentPage=='banking-and-postal-services.php'){echo 'active';} ?>"  title="Media Centre"> Media Centre</a></li>
+               <li><a href="banking-and-postal-services.php" class="<?php if($currentPage=='banking-and-postal-services.php'){echo 'active';} ?>"  title="Banking & Postal Services"> Banking & Postal Services</a></li>
+               <li><a href="su-media-centre.php" class="<?php if($currentPage=='su-media-centre.php'){echo 'active';} ?>"  title="Media Centre"> Media Centre</a></li>
               
               </ul>
 

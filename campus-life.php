@@ -45,96 +45,9 @@
   </section>
   <!-- End About Us Area -->
 
-  <!-- Campus Slider  -->
-  <section class="campus-area ptb-100">
-    <div class="container-fluaid">
-      <div class="section-title aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-        <div class="sub-title">
-          <i class="bx bxs-graduation"></i>
-          <p>The Campus Experience</p>
-        </div>
-        <h2 class="title-anim">One University, Many Places</h2>
-      </div>
-
-      <div class="campus-slider owl-carousel owl-theme owl-loaded owl-drag">
-
-
-
-        <div class="owl-stage-outer owl-height" style="height: 487.75px;">
-          <div class="owl-stage" style="transition: 1s; width: 6650px; transform: translate3d(-2375px, 0px, 0px);">
-            <div class="owl-item cloned" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/all-img/campus-image-2.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Law School</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item cloned" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-                <img src="assets/img/all-img/campus-image-3.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Humanities</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                <img src="assets/img/all-img/campus-image-1.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Biomedical</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item active center" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/all-img/campus-image-2.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Law School</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item active" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-                <img src="assets/img/all-img/campus-image-3.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Humanities</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item cloned" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                <img src="assets/img/all-img/campus-image-1.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Biomedical</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="owl-item cloned" style="width: 930px; margin-right: 20px;">
-              <div class="campus-card aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/all-img/campus-image-2.png" alt="image">
-                <div class="content">
-                  <h2 class="title-anim">Law School</h2>
-                  <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
-              aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span
-              aria-label="Next">›</span></button></div>
-        <div class="owl-dots disabled"></div>
-      </div>
-    </div>
-  </section>
-  <!-- End Campus -->
+   <!-- Start Campus Area -->
+     <?php include 'include/placeses-slider.php';?>
+    <!-- End Campus Area -->
 
   <?php include 'footer.php';?>
   </body>

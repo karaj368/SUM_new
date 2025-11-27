@@ -7,19 +7,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Shobhit University</title>
+
   <style>
     .navbar-area .navbar .navbar-nav .nav-item .nav-link {
       color: var(--paragraphColor) !important;
     }
-
     .top-area {
       background-color: #000000e0;
     }
   </style>
   <?php include 'header.php';?>
-  <main id="scrollsmoother-container">
-
-
     <!-- Start Clgun Banner Area -->
     <section class="owl-carousel slider-courser owl-theme shadow">
       <div class="item">
@@ -165,7 +162,7 @@
           <div class="col-md-6 col-lg-3">
             <div
               class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
-              <div class="featured-icon bg-light ">
+              <div class="featured-icon featured-icon1">
                 <i class="fa-solid fa-award fs-2" style="color:#f69527;"></i>
               </div>
 
@@ -176,7 +173,7 @@
           <div class="col-md-6 col-lg-3">
             <div
               class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
-              <div class="featured-icon bg-light ">
+              <div class="featured-icon  featured-icon2 ">
                 <i class="fa-solid fa-globe fs-2 text-primary"></i>
               </div>
 
@@ -187,7 +184,7 @@
           <div class="col-md-6 col-lg-3">
             <div
               class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
-              <div class="featured-icon bg-light ">
+              <div class="featured-icon featured-icon3">
                 <i class="fa-solid fa-users fs-2 text-success"></i>
               </div>
 
@@ -198,7 +195,7 @@
           <div class="col-md-6 col-lg-3">
             <div
               class="featured-box d-inline-flex align-items-center flex-column gap-3 shadow-sm shadowOnhover bg-white p-4 rounded-4 text-center border">
-              <div class="featured-icon bg-light ">
+              <div class="featured-icon featured-icon4 ">
 
                 <i class="fa-solid fa-calendar-days fs-2 text-info"></i>
               </div>
@@ -210,16 +207,15 @@
         </div>
       </div>
     </section>
-
     <!-- End Featured Area -->
 
-    <!-- Start Academics Area -->
+    <!-- Start Courses Show Area -->
     <section class="academics-area ptb-70">
       <div class="container">
         <div class="section-title" data-aos="fade-up" data-aos-delay="100">
           <div class="sub-title">
             <i class="bx bxs-graduation"></i>
-            <p>Admission Open 2025-26</p>
+            <p>Admission Open 2026-27</p>
           </div>
           <h2 class="title-anim">
             Shobhit Institute of Engineering & Technology, Meerut
@@ -256,175 +252,163 @@
                         <div class="widget widget-catagories">
                           <h3 class="widget-title">Undergraduate Programs</h3>
                           <div class="d-flex justify-content-between">
-                            <ul>
-                              <li>
-                                <h3>
-                                  <a href="#">B.Tech. Computer Science &amp; Engg.</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#">B.Tech. Agricultural Technology</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Tech. Biomedical">B.Tech. Biomedical Engg.</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Tech. Biotechnology Engineering">B.Tech. Biotechnology</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Tech. Lateral Entry (3 Yrs.)">B.Tech. Lateral Entry (3 Yrs.)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Sc. Hons Agriculture (4 Yrs) ">B.Sc. Hons Agriculture (4 Yrs)
-                                  </a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Sc. Hons Nutrition &amp; Dietetics (3 Yrs)">B.Sc. Hons Nutrition
-                                    &amp; Dietetics (3
-                                    Yrs)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Sc. Hons Biotechnology (3 Yrs)">B.Sc. Hons Biotechnology (3
-                                    Yrs)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Sc. Hons Microbiology (3 Yrs) ">B.Sc. Hons Microbiology (3 Yrs)
-                                  </a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Sc. Hons Biomedical Science  (3 Yrs)">B.Sc. Hons Biomedical
-                                    Science (3 Yrs)</a>
-                                </h3>
-                              </li>
-                            </ul>
-                            <ul>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Sc. Hons Computer Science (3 Yrs)">B.Sc. Hons Computer Science (3
-                                    Yrs)
-                                  </a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Com. Hons">B.Com. Hons</a>
-                                </h3>
-                              </li>
-                              <!--<li><a href="#" title="BCom (Banking & Finance) Hons">BCom (Banking & Finance) Hons</a></li>-->
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.A. LL.B. (5 Years)">B.A. LL.B. (5 Years)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="B.Com. LL.B. Hons (5 Years)">B.Com. LL.B. Hons (5 Years)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BBA LL.B. Hons (5 Years)">BBA LL.B. Hons (5 Years)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BCA (29th Batch)">
-                                    BCA (29th Batch)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BCA AI and Machine Learning">BCA AI and Machine Learning</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BCA Cyber Security">BCA Cyber Security</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BCA Internet of Things">BCA Internet of Things</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BCA Data Sc. &amp; Business Analytics">BCA Data Sc. &amp; Business
-                                    Analytics</a>
-                                </h3>
-                              </li>
-                            </ul>
-                            <ul>
-                              <li>
-                                <h3><a href="#" title="B.Ed.">B.Ed.</a></h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BA Hons Economics">BA General</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BA Hons Psychology">BA Hons Psychology</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BA Hons Business Economics">BA Hons Business Economics</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BA Government &amp; Administration">BA Hons Govt &amp;
-                                    Administration</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BBA (29th Batch)">BBA (29th Batch)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BBA General">BBA General</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BBA Digital Marketing">BBA Digital Marketing</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="BBA Banking Finance and Insurance">BBA Banking Finance &amp;
-                                    Insurance</a>
-                                </h3>
-                              </li>
-                              <!--<li><a href="#" title="BBA Business Analytics">BBA Business Analytics</a></li>-->
-                              <li>
-                                <h3>
-                                  <a href="#" title="BBA Global Business &amp; Management">BBA Global Business &amp;
-                                    Management</a>
-                                </h3>
-                              </li>
-                            </ul>
+                             <ul>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/btech-computer-science-and-engineering.php">B.Tech. Computer Science &amp; Engg.</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/btech-agri-informatics.php">B.Tech. Agricultural Technology</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/btech-biomedical.php" title="B.Tech. Biomedical">B.Tech. Biomedical Engg.</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/btech-biotechnology-engineering.php" title="B.Tech. Biotechnology Engineering">B.Tech.
+                                                  Biotechnology</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/bsc.php" title="B.Sc. Hons Agriculture (4 Yrs) ">B.Sc. Hons
+                                                  Agriculture (4 Yrs)
+                                                </a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/bsc.php" title="B.Sc. Hons Nutrition &amp; Dietetics (3 Yrs)">B.Sc.
+                                                  Hons Nutrition
+                                                  &amp; Dietetics (3 Yrs)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/bsc.php" title="B.Sc. Hons Biotechnology (3 Yrs)">B.Sc. Hons
+                                                  Biotechnology (3 Yrs)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/bsc.php" title="B.Sc. Hons Microbiology (3 Yrs) ">B.Sc. Hons
+                                                  Microbiology (3 Yrs)
+                                                </a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/bsc.php" title="B.Sc. Hons Biomedical Science  (3 Yrs)">B.Sc. Hons
+                                                  Biomedical Science (3 Yrs)</a>
+                                              </h3>
+                                            </li>
+                                             <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/bsc.php" title="B.Sc. Hons Computer Science (3 Yrs)">B.Sc. Hons
+                                                  Computer Science (3 Yrs)
+                                                </a>
+                                              </h3>
+                                            </li>
+                                          </ul>
+                                          <ul>
+                                           
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/business-studies/bcom.php" title="B.Com. Hons">B.Com. Hons</a>
+                                              </h3>
+                                            </li>
+                                            <!--<li><a href="#" title="BCom (Banking & Finance) Hons">BCom (Banking & Finance) Hons</a></li>-->
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/law/law-constitutional-studies.php" title="B.A. LL.B. (5 Years)">B.A. LL.B. (5 Years)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/law/law-constitutional-studies.php" title="B.Com. LL.B. Hons (5 Years)">B.Com. LL.B. Hons (5 Years)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/law/law-constitutional-studies.php" title="BBA LL.B. Hons (5 Years)">BBA LL.B. Hons (5 Years)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/bca.php" title="BCA (29th Batch)">
+                                                  BCA (29th Batch)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/bca.php" title="BCA AI and Machine Learning">BCA AI and Machine Learning</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/bca.php" title="BCA Cyber Security">BCA Cyber Security</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/bca.php" title="BCA Internet of Things">BCA Internet of Things</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/bca.php" title="BCA Data Sc. &amp; Business Analytics">BCA Data Sc. &amp; Business Analytics</a>
+                                              </h3>
+                                            </li>
+                                          </ul>
+                                          <ul>
+                                            
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/ba.php" title="BA Hons Economics">BA General</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/ba-psychology.php" title="BA Hons Psychology">BA Hons Psychology</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/ba.php" title="BA Government &amp; Administration">BA Hons Govt &amp; Administration</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/business-studies/bba.php" title="BBA (29th Batch)">BBA (29th Batch)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/business-studies/bba.php" title="BBA General">BBA General</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/business-studies/bba.php" title="BBA Digital Marketing">BBA Digital Marketing</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/business-studies/bba.php" title="BBA Banking Finance and Insurance">BBA Banking Finance &amp; Insurance</a>
+                                              </h3>
+                                            </li>
+
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/business-studies/bba.php" title="BBA Global Business &amp; Management">BBA Global Business &amp; Management</a>
+                                              </h3>
+                                            </li>
+                                          </ul>
                           </div>
                         </div>
                       </div>
@@ -444,220 +428,159 @@
                         <div class="widget widget-catagories">
                           <h3 class="widget-title">Postgraduate Programs</h3>
                           <div class="d-flex justify-content-between">
-                            <ul>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Tech. Computer Engineering">M.Tech. Computer Engineering</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Tech. Agricultural Informatics">M.Tech. Agricultural
-                                    Informatics</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Tech. Biomedical">M.Tech. Biomedical Engg.</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Tech. Biotechnology">M.Tech. Biotechnology</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MCA (28th Batch)">MCA (28th Batch)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MCA Advanced Computing">MCA Advanced Computing</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MCA Cloud Computing">MCA Cloud Computing</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MCA Internet of Things">MCA Internet of Things</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MCA Network and Information Security">MCA Network and Information
-                                    Security</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MCA Full Stack Development">MCA Full Stack Development</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MCA Data Science &amp; Machine Intelligence">MCA Data Science &amp;
-                                    Machine
-                                    Intelligence</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MA Economics">MA Economics</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MA Education">MA Education</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MA English">MA English</a>
-                                </h3>
-                              </li>
-                            </ul>
-                            <ul>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Com.">M.Com. </a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA Marketing Management">MBA Marketing Management</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA Finance Management">MBA Finance Management
-                                  </a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA Business Analytics">MBA Business Analytics
-                                  </a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA Human Resource Management">MBA Human Resource Management</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA International Business Management">MBA International Business
-                                    Management</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA Digital Marketing">MBA Digital Marketing</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA Logistics &amp; Supply Chain MGT">MBA Logistics &amp; Supply
-                                    Chain MGT</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA Agri-Business Management">MBA Agri-Business Management</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="MBA Pharmaceutical Management">MBA Pharmaceutical Management</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="PG Diploma in Counselling Psychology">PG Diploma in Counselling
-                                    Psychology</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="PG Diploma in Yoga">PG Diploma in Yoga</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3><a href="#" title="LL.B.">LL.B.</a></h3>
-                              </li>
-                            </ul>
-                            <ul>
-                              <li>
-                                <h3>
-                                  <a href="#" title="LL.M. (1 Year)">LL.M. (1 Years)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="LL.M. (2 Years)">LL.M. (2 Years)</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Clinical Research">M.Sc. Clinical Research</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Biomedical Science">M.Sc. Biomedical Science</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Biotechnology">M.Sc. Biotechnology</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Mathematics">M.Sc. Mathematics</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Microbiology">M.Sc. Microbiology</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Bioinformatics">M.Sc. Bio-Informatics</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Geo-informatics">M.Sc. Geo-informatics</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Medical Physics">M.Sc. Medical Physics</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Computer Sciences">M.Sc. Computer Sciences</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Environmental Studies">M.Sc. Environmental Studies</a>
-                                </h3>
-                              </li>
-                              <li>
-                                <h3>
-                                  <a href="#" title="M.Sc. Environmental Studies">M.Sc. Food Science &amp;
-                                    Technology</a>
-                                </h3>
-                              </li>
-                            </ul>
+                             <ul>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mtech.php" title="M.Tech. Computer Engineering">M.Tech. Computer Engineering</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mtech.php" title="M.Tech. Agricultural Informatics">M.Tech. Agricultural Informatics</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mtech.php" title="M.Tech. Biomedical">M.Tech. Biomedical Engg.</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mtech.php" title="M.Tech. Biotechnology">M.Tech. Biotechnology</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mca.php" title="MCA (28th Batch)">MCA (28th Batch)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mca.php" title="MCA Cloud Computing">MCA Cloud Computing</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mca.php" title="MCA Internet of Things">MCA Internet of Things</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mca.php" title="MCA Network and Information Security">MCA Network and Information Security</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mca.php" title="MCA Full Stack Development">MCA Full Stack Development</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/engineering/mca.php" title="MCA Data Science &amp; Machine Intelligence">MCA Data Science &amp; Machine Intelligence</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/business-studies/mcom.php" title="M.Com.">M.Com.</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/bed.php" title="B.Ed.">B.Ed. </a>
+                                              </h3>
+                                            </li>
+                                          </ul>
+                                          <ul>
+                                            <li><h3><a href="https://admission.shobhituniversity.ac.in/mba" target="_blank" title="MBA Agri-Business &amp; Rural Entrepreneurship">MBA Agri-Business &amp; Rural Entrepreneurship</a></h3></li>
+                                            <li><h3><a href="https://admission.shobhituniversity.ac.in/mba" target="_blank" title="MBA Digital Business &amp; Ai">MBA Digital Business &amp; Ai</a></h3></li>
+                                            <li><h3><a href="https://admission.shobhituniversity.ac.in/mba" target="_blank" title="MBA Global Trade &amp; Logistics Management">MBA Global Trade &amp; Logistics Management </a></h3></li>
+                                            <li><h3><a href="https://admission.shobhituniversity.ac.in/mba" target="_blank" title="MBA Fintech, Banking &amp; Insurance">MBA Fintech, Banking &amp; Insurance</a></h3></li>
+                                            <li><h3><a href="https://admission.shobhituniversity.ac.in/mba" target="_blank" title="MBA People Management &amp; Hr Analytics">MBA People Management &amp; Hr Analytics</a></h3></li>
+                                            <li><h3><a href="https://admission.shobhituniversity.ac.in/mba" target="_blank" title="MBA Pharmaceutical &amp; Healthcare Management">MBA Pharmaceutical &amp; Healthcare Management</a></h3></li>
+                                            <li><h3><a href="https://admission.shobhituniversity.ac.in/mba" target="_blank" title="MBA Marketing &amp; E-Commerce">MBA Marketing &amp; E-Commerce</a></h3></li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/ba-psychology.php" title="PG Diploma in Counselling Psychology">PG Diploma in Counselling Psychology</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/ba-psychology.php" title="PG Diploma in Yoga">PG Diploma in Yoga</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3><a href="<?php echo $base_url;?>programmes/law/llb.php" title="LL.B.">LL.B.</a></h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/law/llm.php" title="LL.M. (1 Year)">LL.M. (1 Years)</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/law/llm.php" title="LL.M. (2 Years)">LL.M. (2 Years)</a>
+                                              </h3>
+                                            </li>
+                                          </ul>
+                                          <ul>
+                                            
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Clinical Research">M.Sc. Clinical Research</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Biomedical Science">M.Sc. Biomedical Science</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Biotechnology">M.Sc. Biotechnology</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Mathematics">M.Sc. Mathematics</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Microbiology">M.Sc. Microbiology</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Bioinformatics">M.Sc. Bio-Informatics</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Geo-informatics">M.Sc. Geo-informatics</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Medical Physics">M.Sc. Medical Physics</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Computer Sciences">M.Sc. Computer Sciences</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Environmental Studies">M.Sc. Environmental Studies</a>
+                                              </h3>
+                                            </li>
+                                            <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/sbas/msc.php" title="M.Sc. Environmental Studies">M.Sc. Food Science &amp; Technology</a>
+                                              </h3>
+                                            </li>
+                                            
+                                          </ul>
                           </div>
                         </div>
                       </div>
@@ -679,16 +602,18 @@
                             Ph.D. & International Students
                           </h3>
 
-                          <ul>
-                            <li>
-                              <h3><a href="#">Ph.D.</a></h3>
-                            </li>
-                            <li>
-                              <h3>
-                                <a href="#">All International Programs</a>
-                              </h3>
-                            </li>
-                          </ul>
+                         <ul>
+                                         <li>
+                                              <h3>
+                                                <a href="<?php echo $base_url;?>programmes/research/phd.php" title="Ph.D.">Ph.D.</a>
+                                              </h3>
+                                            </li>
+                                          <li>
+                                            <h3>
+                                              <a href="https://admission.shobhituniversity.ac.in/international" target="_blank">All International Programs</a>
+                                            </h3>
+                                          </li>
+                                        </ul>
                         </div>
                       </div>
                     </div>
@@ -702,32 +627,32 @@
         <div class="row justify-content-center">
           <div class="col-lg-4 col-sm-6 col-md-6">
             <div class="academics-item" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/icon/education-1.png" alt="icon" />
+              <img src="<?php echo $base_url;?>assets/img/icon/education-1.png" alt="icon" />
               <h4>Research Program</h4>
 
-              <a href="academics.html">Learn More <i class="bx bx-right-arrow-alt"></i></a>
+              <a href="<?php echo $base_url;?>research-overview.php">Learn More <i class="bx bx-right-arrow-alt"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-sm-6 col-md-6">
             <div class="academics-item" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/icon/education-2.png" alt="icon" />
+              <img src="<?php echo $base_url;?>assets/img/icon/education-2.png" alt="icon" />
               <h4>International Students</h4>
 
-              <a href="academics.html">Learn More <i class="bx bx-right-arrow-alt"></i></a>
+              <a href="https://admission.shobhituniversity.ac.in/international" target="_blank">Learn More <i class="bx bx-right-arrow-alt"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-sm-6 col-md-6">
             <div class="academics-item" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/icon/education-3.png" alt="icon" />
+              <img src="<?php echo $base_url;?>assets/img/icon/education-3.png" alt="icon" />
               <h4>Scholarship</h4>
-
-              <a href="academics.html">Learn More <i class="bx bx-right-arrow-alt"></i></a>
+              <a href="<?php echo $base_url;?>university-scholarship.php">Learn More <i class="bx bx-right-arrow-alt"></i></a>
             </div>
           </div>
         </div>
+     
       </div>
     </section>
-    <!-- End Academics Area -->
+    <!-- End Courses Show Area -->
 
     <!-- Start About University Area -->
     <section class="about-university-area">
@@ -751,25 +676,25 @@
                 <div class="list-items">
                   <ul>
                     <li>
-                      <a href="#"><i class="bx bx-right-arrow-circle"></i> Recognitions
+                      <a href="<?php echo $base_url;?>recognitions-and-approvals.php"><i class="bx bx-right-arrow-circle"></i> Recognitions
                         and Approvals</a>
                     </li>
                     <li>
-                      <a href=""><i class="bx bx-right-arrow-circle"></i> Ranking and
+                      <a href="<?php echo $base_url;?>ranking-and-awards.php"><i class="bx bx-right-arrow-circle"></i> Ranking and
                         Awards</a>
                     </li>
                     <li>
-                      <a href=""><i class="bx bx-right-arrow-circle"></i> Awards and
+                      <a href="<?php echo $base_url;?>awards-and-achievements.php"><i class="bx bx-right-arrow-circle"></i> Awards and
                         Achievements</a>
                     </li>
                   </ul>
                 </div>
-                <a class="default-btn black" href="admission.html">Know About University</a>
+                <a class="default-btn black" href="<?php echo $base_url;?>university-overview.php">Know About University</a>
               </div>
             </div>
             <div class="col-lg-6" data-aos="fade-zoom-in" data-aos-delay="100">
               <div class="academic-images">
-                <img src="assets/img/all-img/university-image.png" alt="image" />
+                <img src="<?php echo $base_url;?>assets/img/all-img/university-image.png" alt="image" />
               </div>
             </div>
           </div>
@@ -786,7 +711,7 @@
             <i class="bx bxs-graduation"></i>
             <p>Shobhit University</p>
           </div>
-          <h2 class="title-anim">Recognitions & Approvals</h2>
+          <h2 class="title-anim">Recognitions & <span style="color:#116446;"> Approvals</span></h2>
         </div>
         <div class="courses-courser mb-5 owl-carousel owl-theme">
           <div class="course-item" data-aos="fade-up" data-aos-delay="400">
@@ -876,7 +801,7 @@
           </div>
         </div> -->
         <div class="section-title" data-aos="fade-up" data-aos-delay="100">
-          <h2 class="title-anim">Our Leading Recruiters</h2>
+          <h2 class="title-anim">Our Leading <span style="color:#116446;"> Recruiters</span></h2>
         </div>
         <p class="text-center">At Shobhit University, there is an intensive focus on getting each and every student
           industry ready. With more than 2000 recruiters visiting our campus every year, our graduates have the support,
@@ -886,131 +811,22 @@
     </section>
     <!-- End Courses Area -->
 
-    <!-- Start Features Area 2 -->
-    <section class="features-area-2">
-      <div class="features-content-2 ptb-100">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <div class="sub-title">
-                <p>Our Best Features</p>
-              </div>
-              <div class="content">
-                <h2>Our students create a vibrant and inclusive community</h2>
-                <div class="item">
-                  <div class="item-content">
-                    <div class="icon">
-                      <img src="assets/img/icon/features-icon-2.png" alt="image" />
-                    </div>
-                    <h3>Our Vision</h3>
-                    <p>
-                      Shobhit University aspires to be recognized
-                      internationally as a leading Indian university that
-                      shapes leaders for a just and humane world. It focuses
-                      on becoming a focal institution in technical education,
-                      research, and innovation, contributing significantly at
-                      both national and global levels.
-                    </p>
-                  </div>
-                </div>
-                <div class="item">
-                  <div class="item-content">
-                    <div class="icon">
-                      <img src="assets/img/icon/features-icon-1.png" alt="image" />
-                    </div>
-                    <h3>Our Mission</h3>
-                    <p>
-                      The university's mission is to offer diverse learning
-                      experiences in traditional and emerging fields,
-                      emphasizing research, innovation, and the development of
-                      professional skills and personal values. It aims to
-                      foster a learning community that values high-quality
-                      scholarship, cultural heritage, and ethical living,
-                      supported by effective leadership and governance aligned
-                      with its vision and mission.
-                    </p>
-                  </div>
-                </div>
-                <a class="default-btn" href="admission.html">Apply Now</a>
+      <!-- Students Placements Slider -->
+     <?php include 'include/placementSlider-section.php';?>
+    <!-- End Students Placements Slider -->
 
-                <div class="arrow-icon">
-                  <img src="assets/img/icon/shape-1.png" alt="image" />
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="academic-content">
-                <div class="row">
-                  <div class="col-lg-6 col-sm-6 col-md-6 pt-25">
-                    <div class="academic-item" data-aos="fade-up" data-aos-delay="100">
-                      <div class="image">
-                        <img src="assets/img/all-img/academic-image-1.png" alt="image" />
-                        <div class="number">
-                          <h3>01</h3>
-                        </div>
-                      </div>
-                      <div class="content">
-                        <h4>International Students</h4>
-                        <a class="btn" href="fitness-athletics.html">Learn More <i
-                            class="bx bx-right-arrow-alt"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-6 col-sm-6 col-md-6">
-                    <div class="academic-item" data-aos="fade-up" data-aos-delay="200">
-                      <div class="image">
-                        <img src="assets/img/all-img/academic-image-2.png" alt="image" />
-                        <div class="number">
-                          <h3>02</h3>
-                        </div>
-                      </div>
-                      <div class="content">
-                        <h4>Bachelor’s & Master’s</h4>
-                        <a class="btn" href="support-guidance.html">Learn More <i class="bx bx-right-arrow-alt"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-6 col-sm-6 col-md-6 pt-25">
-                    <div class="academic-item" data-aos="fade-up" data-aos-delay="300">
-                      <div class="image">
-                        <img src="assets/img/all-img/academic-image-3.png" alt="image" />
-                        <div class="number">
-                          <h3>03</h3>
-                        </div>
-                      </div>
-                      <div class="content">
-                        <h4>University Life</h4>
-                        <a class="btn" href="university-life.html">Learn More <i class="bx bx-right-arrow-alt"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-6 col-sm-6 col-md-6">
-                    <div class="academic-item" data-aos="fade-up" data-aos-delay="400">
-                      <div class="image">
-                        <img src="assets/img/all-img/academic-image-4.png" alt="image" />
-                        <div class="number">
-                          <h3>04</h3>
-                        </div>
-                      </div>
-                      <div class="content">
-                        <h4>Education Services</h4>
-                        <a class="btn" href="the-campus-experience.html">Learn More <i
-                            class="bx bx-right-arrow-alt"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+   <section class="ranking-sect ptb-100">
+    <div class="container">
+      <div class="section-title" data-aos="fade-up" data-aos-delay="100">
+          <div class="sub-title">
+            <i class="bx bxs-graduation"></i>
+            <p>Shobhit University</p>
           </div>
+          <h2 class="title-anim">Our <span style="color:#116446;"> Rankings</span> </h2>
         </div>
-      </div>
-    </section>
-    <!-- End Features Area 2 -->
-
-    <!-- Start Video Area  -->
-    <section class="video-area"></section>
-    <!-- End Video Area  -->
+      <?php include 'include/ranking-slider.php';?>
+    </div>
+   </section>
 
     <!-- Start News Area -->
     <section class="news-area ptb-100">
@@ -1021,62 +837,50 @@
             <p>Shobhit University</p>
           </div>
           <h2 class="title-anim">
-            Stories About People, Research, and Innovation Across The Farm
+           Our ShobhitUniv.Social
           </h2>
+          <ul class="cstm-social-icons">
+              <li>
+                <a href="https://www.facebook.com/ShobhitUniversityIndia/" target="_blank"><i class="bx bxl-facebook"></i></a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/shobhituniv" target="_blank"><i class="bx bxl-instagram-alt"></i></a>
+              </li>
+              <li>
+                <a href="https://twitter.com/shobhituniv" target="_blank"><i class="bx bxl-twitter"></i></a>
+              </li>
+              <li>
+                <a href="https://in.linkedin.com/school/shobhit-university" target="_blank"><i class="bx bxl-linkedin-square"></i></a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/user/shobhituniversityin" target="_blank"><i class="bx bxl-youtube"></i></a>
+              </li>
+              <li>
+                <a href="https://www.flickr.com/photos/146666627@N05/albums" target="_blank"><i class="fa-brands fa-flickr"></i></a>
+              </li>
+
+            </ul>
         </div>
 
-        <div class="row">
-          <div class="col-lg-8 col-md-12">
-            <div class="news-content">
-              <ul class="m-0">
-                <li class="news-item" data-aos="fade-up" data-aos-delay="100">
-                  <div class="image">
-                    <img src="assets/img/all-img/news-image-1.png" alt="image" />
-                  </div>
-                  <div class="content title-anim">
-                    <div class="sub-title">
-                      <i class="bx bxs-graduation"></i>
-                      <p>Science and technology</p>
-                    </div>
-                    <h2 class="title-anim">
-                      <a href="blog-details.html">Robot Provides Personalized Room Cleanup</a>
-                    </h2>
-                    <p>
-                      Lorem ipsum dolor sit amet conse ctetur adipiscingl sed
-                      do eiusm tem incid idunt ut labore.
-                    </p>
-                    <a class="btn" href="blog-details.html">Continue Reading...</a>
-                  </div>
-                </li>
-                <li class="news-item" data-aos="fade-up" data-aos-delay="200">
-                  <div class="image">
-                    <img src="assets/img/all-img/news-image-2.png" alt="image" />
-                  </div>
-                  <div class="content title-anim">
-                    <div class="sub-title">
-                      <i class="bx bxs-graduation"></i>
-                      <p>Law and Policy</p>
-                    </div>
-                    <h2 class="title-anim">
-                      <a href="blog-details.html">Learning Network Webinars for Music Teachers</a>
-                    </h2>
-                    <p>
-                      Lorem ipsum dolor sit amet conse ctetur adipiscingl sed
-                      do eiusm tem incid idunt ut labore.
-                    </p>
-                    <a class="btn" href="blog-details.html">Continue Reading...</a>
-                  </div>
-                </li>
-              </ul>
+        <div class="row justify-content-center m-auto">
+          <div class="col-md-7 col-lg-6 col-xl-5">
+            <div class="fb-row-web d-none d-sm-block">
+                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FShobhitUniversityIndia%2F&tabs=timeline&width=450&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" 
+              width="480" height="600" style="border-left:20px solid #000; border-right:20px solid #000; border-top:25px solid #000; border-bottom:25px solid #000; border-radius:20px; overflow:hidden" 
+              scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="fb-row-mob d-block d-sm-none">
+                      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FShobhitUniversityIndia%2F&tabs=timeline&width=320&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" 
+              width="100%" height="500" style="border-left:15px solid #000; border-right:15px solid #000; border-top:20px solid #000; border-bottom:20px solid #000; border-radius:20px; overflow:hidden" 
+              scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
             </div>
           </div>
-          <div class="col-lg-4">
+          <div class="col-md-7 col-lg-6 col-xl-5">
             <div class="news-content-right" data-aos="fade-up" data-aos-delay="100">
               <div class="content-box">
-                <!-- <img src="assets/img/all-img/news-image-3.png" alt="iamge"> -->
                 <div class="content title-anim">
                   <h3>
-                    <a href="blog-details.html">Latest Announcements</a>
+                    Latest Announcements
                   </h3>
                 </div>
                 <marquee behavior="scroll" direction="up">
@@ -1113,7 +917,28 @@
     </section>
     <!-- End News Area -->
 
-    <!-- Start Faculty Area -->
+     <!-- Start Social Media Area 2 -->
+    <section class="features-area-2 ptb-100">
+      <div class="features-content-2 ptb-100">
+        <div class="container">
+          <div class="section-title d-flex gap-2 justify-content-start justify-content-md-center align-items-center" data-aos="fade-up" data-aos-delay="100">
+              <img class="insta-img" src="<?php echo $base_url;?>assets/img/icon/Instagram.png" width="50"><h2 class="title-anim">#Shobhituniv</h2>
+            </div>
+        </div>
+        <div class=" container-fluid p-0">
+          <div class="row">
+           <div class="col-md-12 text-center">
+              <!-- <div class="elfsight-app-0a99f0f3-fbce-488d-94d7-a3f8e4ea91fc" data-elfsight-app-lazy></div> -->
+           </div>
+          </div>
+          
+        </div>
+      </div>
+      <div class="hide-sec-ribbon p-2 "></div>
+    </section>
+    <!-- End Social Media Area 2 -->
+
+    <!-- Start Scholarship Area -->
     <section class="faculty-area-2 ptb-100">
       <div class="container">
         <div class="row align-items-center">
@@ -1133,26 +958,28 @@
           </div>
           <div class="col-lg-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
             <div class="button">
-              <a class="default-btn" href="financial-aid.html">Know More</a>
+              <a class="default-btn" href="<?php echo $base_url;?>university-scholarship.php">More Details</a>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- End Faculty Area -->
+    <!-- End Why Choose Area -->
 
-    <!-- Start Quick Search Area -->
+    <!-- Start Why Choose Area -->
     <section class="quick-search ptb-100">
       <div class="container">
         <div class="row align-items-center justify-content-end">
-          <div class="col-lg-6"></div>
+          <div class="col-lg-6">
+            <img class="rounded w-100" src="<?php echo $base_url;?>assets/img/all-img/bg-image1.webp" alt="">
+          </div>
           <div class="col-lg-6">
             <div class="quick-content" data-aos="fade-up" data-aos-delay="200">
               <div class="sub-title">
                 <i class="bx bxs-graduation"></i>
                 <p>Shobhit University</p>
               </div>
-              <h2 class="title-anim">Why Choose Shobhit?</h2>
+              <h2 class="title-anim">Why Choose <span style="color:#116446;"> Shobhit?</span> </h2>
               <p class="title-anim">
                 Shobhit University is a NAAC Accredited research-intensive,
                 multi-disciplinary university that shares the values of
@@ -1168,32 +995,27 @@
                     <div class="list-items">
                       <ul>
                         <li>
-                          <i class="bx bx-right-arrow-circle"></i> MOU's
+                          <i class="bx bx-right-arrow-circle"></i> <a href="<?php echo $base_url;?>MOUs.php">MOU's</a> 
                         </li>
                         <li>
-                          <i class="bx bx-right-arrow-circle"></i> Placements
+                          <i class="bx bx-right-arrow-circle"></i> <a href="<?php echo $base_url;?>placements-overview.php">Placements</a> 
                         </li>
                         <li>
-                          <i class="bx bx-right-arrow-circle"></i> Student
-                          Testimonials
+                          <i class="bx bx-right-arrow-circle"></i> <a href="<?php echo $base_url;?>notable-alumni.php"> Notable Alumni</a> 
                         </li>
+                     
                       </ul>
                     </div>
                   </div>
                   <div class="col-lg-6 col-sm-6 col-md-6">
                     <div class="list-items">
                       <ul>
+                        
                         <li>
-                          <i class="bx bx-right-arrow-circle"></i> Notable
-                          Alumni
+                          <i class="bx bx-right-arrow-circle"></i><a href="<?php echo $base_url;?>alumni-network.php"> Alumni Network</a> 
                         </li>
                         <li>
-                          <i class="bx bx-right-arrow-circle"></i> Alumni
-                          Network
-                        </li>
-                        <li>
-                          <i class="bx bx-right-arrow-circle"></i> Awards and
-                          Achievements
+                          <i class="bx bx-right-arrow-circle"></i> <a href="<?php echo $base_url;?>awards-and-achievements.php">Awards and Achievements</a> 
                         </li>
                       </ul>
                     </div>
@@ -1207,7 +1029,7 @@
                     <p>Apply for Admission</p>
                   </div>
                   <div class="col-lg-6 col-sm-6 col-md-6 text-end">
-                    <a class="default-btn" href="application-form.html">Apply Now</a>
+                    <a class="default-btn" href="https://admission.shobhituniversity.ac.in" target="_blank">Apply Now</a>
                   </div>
                 </div>
               </div>
@@ -1216,7 +1038,7 @@
         </div>
       </div>
     </section>
-    <!-- End Quick Search Area -->
+    <!-- End Why Choose Area -->
 
     <!-- Start Activities Area -->
     <section class="activities-area ptb-100">
@@ -1233,124 +1055,77 @@
           <div class="campus-slides">
             <div class="activities-card" data-aos="fade-up" data-aos-delay="100">
               <div class="image">
-                <img src="assets/img/all-img/su-university-housing-dining-services.jpg" alt="image" />
+                <img src="<?php echo $base_url;?>assets/img/all-img/su-university-housing-dining-services.jpg" alt="image" />
               </div>
               <div class="content title-anim">
                 <h2 class="title-anim">
-                  <a href="support-guidance.html">Housing & Dining</a>
+                  <a href="<?php echo $base_url;?>university-housing-and-dining-services.php">Housing & Dining</a>
                 </h2>
-                <a class="btn" href="support-guidance.html">Know About More</a>
+                <a class="btn" href="<?php echo $base_url;?>university-housing-and-dining-services.php">Know More</a>
               </div>
             </div>
           </div>
           <div class="campus-slides">
             <div class="activities-card" data-aos="fade-up" data-aos-delay="200">
               <div class="image">
-                <img src="assets/img/all-img/sports.webp" alt="image" />
+                <img src="<?php echo $base_url;?>assets/img/all-img/sports.webp" alt="image" />
               </div>
               <div class="content title-anim">
                 <h2 class="title-anim">
-                  <a href="student-activities.html">Sports and Recreation</a>
+                  <a href="<?php echo $base_url;?>sports-and-recreation.php">Sports and Recreation</a>
                 </h2>
-                <a class="btn" href="student-activities.html">Know About More</a>
+                <a class="btn" href="<?php echo $base_url;?>sports-and-recreation.php">Know More</a>
               </div>
             </div>
           </div>
           <div class="campus-slides">
             <div class="activities-card" data-aos="fade-up" data-aos-delay="300">
               <div class="image">
-                <img src="assets/img/all-img/computer-lab.jpg" alt="image" />
+                <img src="<?php echo $base_url;?>assets/img/all-img/computer-lab.jpg" alt="image" />
               </div>
               <div class="content title-anim">
                 <h2 class="title-anim">
-                  <a href="fitness-athletics.html">Computer Lab Facilities</a>
+                  <a href="<?php echo $base_url;?>computer-lab-facilities.php">Computer Lab Facilities</a>
                 </h2>
-                <a class="btn" href="fitness-athletics.html">Know About More</a>
+                <a class="btn" href="<?php echo $base_url;?>computer-lab-facilities.php">Know About More</a>
               </div>
             </div>
           </div>
           <div class="campus-slides">
             <div class="activities-card" data-aos="fade-up" data-aos-delay="300">
               <div class="image">
-                <img src="assets/img/all-img/library.jpg" alt="image" />
+                <img src="<?php echo $base_url;?>assets/img/all-img/library.jpg" alt="image" />
               </div>
               <div class="content title-anim">
                 <h2 class="title-anim">
-                  <a href="fitness-athletics.html">Library & Learning Centre</a>
+                  <a href="<?php echo $base_url;?>library-and-learning-centre.php">Library & Learning Centre</a>
                 </h2>
-                <a class="btn" href="fitness-athletics.html">Know About More</a>
+                <a class="btn" href="<?php echo $base_url;?>library-and-learning-centre.php">Know About More</a>
               </div>
             </div>
           </div>
           <div class="campus-slides">
             <div class="activities-card" data-aos="fade-up" data-aos-delay="300">
               <div class="image">
-                <img src="assets/img/all-img/medical-facilities.jpg" alt="image" />
+                <img src="<?php echo $base_url;?>assets/img/all-img/medical-facilities.jpg" alt="image" />
               </div>
               <div class="content title-anim">
                 <h2 class="title-anim">
-                  <a href="fitness-athletics.html">Medical Facilities</a>
+                  <a href="<?php echo $base_url;?>medical-facilities.php">Medical Facilities</a>
                 </h2>
-                <a class="btn" href="fitness-athletics.html">Know About More</a>
+                <a class="btn" href="<?php echo $base_url;?>medical-facilities.php">Know About More</a>
               </div>
             </div>
           </div>
-          <!-- <div class="campus-slides">
-                        <div class="activities-card" data-aos="fade-up" data-aos-delay="300">
-                            <div class="image">
-                                <img src="assets/img/all-img/activities-image-3.png" alt="image">
-                            </div>
-                            <div class="content title-anim">
-                                <h2 class="title-anim"><a href="fitness-athletics.html">Alumni Network</a></h2>
-                                <a class="btn" href="fitness-athletics.html">Know About More</a>
-                            </div>
-                        </div>
-                    </div> -->
+    
         </div>
-        <!-- <div class="section-btn text-center title-anim" data-aos="fade-zoom-in" data-aos-delay="100">
-                    <p><a href="fitness-athletics.html">More About Campus Life <i
-                                class='bx bx-right-arrow-alt'></i></a></p>
-                </div> -->
+       
       </div>
     </section>
     <!-- End Activities Area -->
 
     <!-- Start Campus Area -->
-    <section class="campus-area ptb-100">
-      <div class="container-fluaid">
-        <div class="section-title" data-aos="fade-up" data-aos-delay="100">
-          <div class="sub-title">
-            <i class="bx bxs-graduation"></i>
-            <p>The Campus Experience</p>
-          </div>
-          <h2 class="title-anim">One University, Many Places</h2>
-        </div>
-
-        <div class="campus-slider owl-carousel owl-theme">
-          <div class="campus-card" data-aos="fade-up" data-aos-delay="100">
-            <img src="assets/img/all-img/campus-image-1.png" alt="image" />
-            <div class="content">
-              <h2 class="title-anim">Biomedical</h2>
-              <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-            </div>
-          </div>
-          <div class="campus-card" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/all-img/campus-image-2.png" alt="image" />
-            <div class="content">
-              <h2 class="title-anim">Law School</h2>
-              <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-            </div>
-          </div>
-          <div class="campus-card" data-aos="fade-up" data-aos-delay="300">
-            <img src="assets/img/all-img/campus-image-3.png" alt="image" />
-            <div class="content">
-              <h2 class="title-anim">Humanities</h2>
-              <!-- <a class="default-btn" href="the-campus-experience.html">Virtual Tour</a> -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+     <?php include 'include/placeses-slider.php';?>
     <!-- End Campus Area -->
 
     <!-- Start Events Area -->
@@ -1394,7 +1169,7 @@
               <div class="event" data-aos="fade-up" data-aos-delay="200">
                 <div class="content">
                   <div class="image">
-                    <img src="https://www.shobhituniversity.ac.in/admin/uploads/online-webinar-computer-society.jpg"
+                    <img src=""
                       alt="image" />
                   </div>
                   <div class="text title-anim">
@@ -1583,33 +1358,11 @@
     </section>
     <!-- End Success Area -->
 
-    <!-- Start Subscribe Area 3 -->
-    <!-- <section class="subscribe-area-3 ptb-100">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-sm-6">
-                        <div class="image" data-aos="fade-zoom-in" data-aos-delay="100">
-                            <img src="assets/img/all-img/user-image.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-sm-6" data-aos="fade-up" data-aos-delay="100">
-                        <div class="content">
-                            <span>Subscribe to Our Newsletter</span>
-                            <h2>Get the Latest Canyon News Delivered to You Inbox</h2>
-                            <div class="signup">
-                                <form target="#">
-                                    <input type="email" class="email-signup" placeholder="Your Email" required>
-                                    <input type="submit" value="Subscribe Now" class="btn">
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-    <!-- End Subscribe Area 3 -->
-
     <?php include 'footer.php';?>
+    <!-- Instagram Feed | Untitled Instagram Feed -->
+    <script src="https://elfsightcdn.com/platform.js" async ></script>
+  
+    <!-- Instagram Feed | Untitled Instagram Feed -->
     </body>
 
 </html>

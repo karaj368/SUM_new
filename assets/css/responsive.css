@@ -1,4 +1,18 @@
 
+/* Max width 992px */
+@media only screen and (max-width: 992px) {
+    .responsive-navbar a {
+    color: #000;
+    font-weight: 300;
+    font-size: 14px;
+}
+.responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-collapse .accordion-body{
+  margin-top: 0px;
+}
+.hide-sec-ribbon {
+    margin-top: -122px;
+}
+}
 /* Max width 767px */
 @media only screen and (max-width: 767px) {
   body {
@@ -64,6 +78,9 @@
     padding-right: 0px;
     margin-bottom: 30px;
   }
+  .hide-sec-ribbon {
+    margin-top: -102px;
+}
 
 /* index page */
   .big-bg-1 {
@@ -853,7 +870,7 @@
   }
 
   .banner-spacing{
-    padding: 200px 0 !important;
+    padding: 120px 0;
     margin-bottom: 0;
   }
   .section-banner .section-info {
@@ -939,7 +956,6 @@
     padding: 0px;
 }
 
-
   .subscribe-area-2 {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -950,7 +966,7 @@
     font-size: 14px;
   }
   .academics-section .academics-left .ac-category ul li {
-    margin-bottom: 15px;
+    /* margin-bottom: 15px; */
   }
   .ac-contact {
     margin-bottom: 40px;
@@ -1532,6 +1548,11 @@
   .copy-right-area.style-2 .social-list li {
     margin-bottom: 0px;
   }
+  .responsive-navbar a {
+    color: #000;
+    font-weight: 300;
+    font-size: 14px;
+}
 }
 @media only screen and (max-width: 575px) {
   .ptb-100 {
@@ -1542,6 +1563,58 @@
 }
 .pera-dec {
   text-align: justify;
+}
+.footer-area-3 .footer-top-info .right-content {
+    text-align: center ;
+}
+.footer-area-3 .footer-top-info .right-content span {
+ right: 45%;
+         top: -20px;
+}
+.footer-area-3 .footer-top-info .left-content {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.hide-sec-ribbon {
+    margin-top: -82px;
+}
+.insta-img {
+    width: 40px;
+}
+.contact-content .header-content h2 {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+.contact-info .info-details ul li a {
+    font-size: 12px;
+}
+.section-title .sub-title p {
+    font-size: 13px;
+}
+.section-title h2 {
+    font-size: 26px ;
+}
+.section-title .sub-title {
+    margin-bottom: 6px;
+}
+.faculty-area-2 .heading h2 {
+    font-size: 28px ;
+    margin-bottom: 20px;
+}
+.about-university .content h2 {
+    font-size: 22px;
+}
+.quick-search .quick-content .list .list-items ul li, .about-university .list-items ul li {
+    font-size: 17px;
+}
+.quick-search .quick-content .list .list-items ul li i, .about-university .list-items ul li i {
+    font-size: 24px;
+    top: 0px;
+}
+.cstm-social-icons li a {
+    height: 30px;
+    width: 30px;
+    font-size: 22px;
 }
   }
 /* Min width 576px to Max width 767px */
@@ -2808,8 +2881,14 @@
   .footer-area-3 .footer-top-info .left-content p i {
     left: 0%;
     top: 0px;
-    font-size: 66px;
+    font-size: 42px;
   }
+  .footer-area-3 .footer-widget-info .footer-widget ul li a {
+   
+    font-size: 12px;
+    line-height: 1rem;
+    margin-bottom: 4px;
+}
   .footer-area-3 .footer-top-info .left-content {
     margin-bottom: 30px;
   }
@@ -2824,9 +2903,6 @@
   .footer-area-3 .footer-top-info {
     padding-top: 40px;
   }
-  .footer-area-3 .footer-top-info .left-content p {
-    font-size: 16px;
-  }
   .footer-area-3 .footer-top-info .left-content {
     margin-bottom: 00px;
     padding-bottom: 0px;
@@ -2834,10 +2910,10 @@
   .footer-area-3 .footer-top-info .right-content span {
     top: -30px;
   }
-  .footer-area-3 .footer-top-info .left-content p {
-    font-size: 20px;
-    padding-left: 85px;
-  }
+ .footer-area-3 .footer-top-info .left-content p {
+    font-size: 18px;
+    padding-left: 60px;
+}
   
 
   .footer-top-info .content p {
@@ -3861,8 +3937,73 @@
     height: 50px;
     font-size: 14px;
 }
+.dropdown-menu.st-about {
+    width: 890px;
+    height: 425px;
+    left: -250px;
+}
+.step-second-menu li a, .menu-tab-cnt .widget-area .widget-catagories ul li a {
+    font-size: 12px;
+    line-height: 1.1rem;
+    margin-bottom: 3px;
+}
+.step-second-menu h4 {
+    font-size: 14px;
+}
+.dropdown-menu.st-academics {
+    width: 470px;
+    height: 310px;
+    left: -200px;
+}
+.dropdown-menu.st-academics-research {
+    width: 600px;
+    height: 300px;
+    left: -360px;
+}
+.dropdown-menu.st-programs {
+    width: 950px;
+    height: 470px;
+    left: -365px;
+}
+.drop-down-graphic h3 {
+    font-size: 15px;
+}
+.drop-down-graphic h3 span {
+    font-size: 16px;
+}
+    #nav-tab .nav-link {
+        font-size: 14px;
+    }
 }
 
+@media only screen and (min-width: 1200px) and (max-width: 1299px) {
+.dropdown-menu.st-about {
+    width: 1000px;
+    height: 310px;
+    left: -250px;
+}
+.dropdown-menu.st-programs {
+    width: 1000px;
+    height: 495px;
+    left: -260px;
+}
+.step-second-menu li a, .menu-tab-cnt .widget-area .widget-catagories ul li a {
+    font-size: 13px;
+    line-height: 1.1rem;
+}
+.dropdown-menu.st-academics {
+    width: 460px;
+    height: 340px;
+}
+.dropdown-menu.st-academics-research {
+    width: 610px;
+    height: 320px;
+    left: -270px;
+}
+.widget-area .widget-catagories ul {
+    padding: 0px 5px ;
+}
+}
 /* Min width 1200px to Max width 1399px */
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .nav-search a {
@@ -4474,4 +4615,40 @@
   .graduate-events {
     margin-top: 160px;
   }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1399px) {
+.dropdown-menu.st-academics {
+    width: 575px;
+    height: 370px;
+    left: -120px;
+}
+.dropdown-menu.st-programs {
+    width: 1080px;
+    height: 500px;
+    left: -370px;
+}
+.widget-area .widget-catagories ul {
+    padding: 0px 5px ;
+}
+.step-second-menu li a, .menu-tab-cnt .widget-area .widget-catagories ul li a {
+    color: black;
+    font-size: 13px;
+    line-height: 1.1rem;
+}
+.dropdown-menu.st-about {
+    width: 1050px;
+    height: 370px;
+    left: -260px;
+}
+.dropdown-menu.st-academics {
+    width: 500px;
+    height: 340px;
+   
+}
+}
+@media only screen and (min-width: 1400px) and (max-width: 1599px) {
+.drop-down-graphic h3 span {
+    font-size: 18px;
+}
 }

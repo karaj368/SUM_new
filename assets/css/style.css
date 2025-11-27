@@ -175,11 +175,24 @@ a.white-under-btn {
 }
 
 .featured-icon {
-  padding: 20px;
-  border-radius: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.featured-icon1{
+background-color: #ff98002b;
+}
+.featured-icon2 {
+    background-color: #0d6efd2b;
+}
+.featured-icon3 {
+    background-color: #19875421;
+}
+.featured-icon4 {
+    background-color: #0dcaf026;
 }
 
 /*section-title*/
@@ -187,9 +200,39 @@ a.white-under-btn {
   max-width: 800px;
   position: relative;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   margin-right: auto;
   margin-left: auto;
+}
+.why-btech {
+      background: #f3f3f3;
+}
+.why-btech .section-title {
+  max-width: 1200px;
+    margin-bottom: 25px;
+}
+.why-btech .icon-box-why{
+    min-height: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    background-color: #fff;
+    align-items: start;
+    border: 1px solid #e7e7e7;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.admission-process p, .why-btech p {
+  line-height: 1.2rem;
+}
+.eligi-bg {
+    border: 1px solid #BFDBFE;
+    background: linear-gradient(135deg, #EFF6FF 0%, #ECFEFF 100%);
+    
+}
+.process-bg{
+    border: 1px solid #DDD6FE;
+    background: linear-gradient(135deg, #F5F3FF 0%, #FAF5FF 100%);
 }
 
 .section-title h2 {
@@ -1222,7 +1265,7 @@ Courses CSS
   border: 1px solid #f6f6f6;
 }
 
-.rankslide-item {
+.rankslide-item, .student_slide {
   padding: 0px;
   box-shadow: 0px 0px 5px #6767672e;
   border: none;
@@ -1231,7 +1274,8 @@ Courses CSS
 }
 
 .course-item .image img,
-.rankslide-item .image img {
+.rankslide-item .image img,
+.student_slide .image img {
   width: 100%;
 }
 
@@ -1340,15 +1384,12 @@ Courses CSS
 Courses Details CSS
 =================================================*/
 
-.courses-details .header-title {
-  padding-bottom: 20px;
-  border-bottom: 1px solid #dddd;
-}
+
 
 .courses-details .header-title span {
   font-size: 16px;
   color: var(--paragraphColor);
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   display: block;
 }
 
@@ -1358,19 +1399,20 @@ Courses Details CSS
   margin-bottom: 30px;
 }
 
-.courses-details .header-title ul {
+.courses-details .header-title .uni-recog {
   list-style: none;
   padding: 0;
-  margin-bottom: 40px;
+  margin: 0;
+
 }
 
-.courses-details .header-title ul li {
+.courses-details .header-title .uni-recog li {
   display: inline-block;
   padding: 5px 15px;
   border-radius: 20px;
 
 }
-.courses-details .header-title ul li p {
+.courses-details .header-title .uni-recog li p {
   font-size: 14px;
 
 }
@@ -1385,7 +1427,43 @@ Courses Details CSS
   top: 3px;
   left: 0;
 }
-
+.about-courses-rebbon{
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+.course-detailpati {
+    gap: 60px;
+}
+.course-detailpati{
+    display: flex;
+    list-style: none;
+   
+}
+.course-detailpati li {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    font-size: 16px;
+}
+.course-detailpati li:after {
+    content: "";
+    width: 1px;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    background: #ddd;
+    top: 0;
+}
+.course-detailpati li:after  {
+    right: -30px;
+}
+.course-detailpati li:last-child:after{
+  background: none;
+}
 .courses-details .content {
   padding-top: 40px;
   border-bottom: 1px solid #ddd;
@@ -3342,12 +3420,17 @@ button.nav-link.widget-title {
 }
 
 .blog-single-card {
-  box-shadow: 7px 7px 60px rgba(22, 23, 26, 0.06);
-  margin-bottom: 30px;
+    box-shadow: 7px 7px 60px rgba(22, 23, 26, 0.06);
+    margin-bottom: 30px;
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 .blog-single-card .content {
   padding: 30px;
+}
+.blog-single-card .image img {
+    width: 100%;
 }
 
 .blog-single-card .content .meta ul {
@@ -3885,7 +3968,7 @@ Faculty CSS
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: var(--blackColor);
+  background:linear-gradient(90deg, #058d67 0%, #07634a 100%);
 }
 
 .faculty-area .content {
@@ -4077,12 +4160,7 @@ Contact Area CSS
 Quick Search CSS
 =================================================*/
 
-.quick-search {
-  background-image: url(../img/all-img/bg-image1.webp);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: left;
-}
+
 
 .quick-content {
   padding-left: 40px;
@@ -4394,7 +4472,7 @@ Success Award CSS
 Activities CSS
 =================================================*/
 
-.activities-area {
+.activities-area, .ranking-sect  {
   background-color: var(--secounderyColor);
 }
 
@@ -4864,55 +4942,29 @@ Success CSS
 }
 
 .success-area .success-card ul {
-  position: absolute;
-  bottom: 10%;
-  left: 0;
-  right: 0;
-  list-style: none;
-  display: inline-flex;
-  padding: 0px 15px 0 15px;
-  justify-content: space-around;
-  align-items: center;
-  margin: 0;
+    background: linear-gradient(to bottom, #00000000, rgb(0 0 0));
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    list-style: none;
+    display: block;
+    padding: 50px 15px 10px 15px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
 }
-
-/* .success-area .success-card .play {
-  position: absolute;
-  content: '';
-  bottom: 10%;
-  left: 7%;
-}
-
-.success-area .success-card .play a {
-  height: 50px;
-  width: 50px;
-  display: inline-block;
-  z-index: 1;
-  line-height: 55px;
-  text-align: center;
-  background-color: var(--mainColor);
-  color: var(--whiteColor);
-  border-radius: 100%;
-  font-size: 40px;
-  position: relative;
-}
-
-.success-area .success-card .play::before {
-  position: absolute;
-  content: '';
-  height: 65px;
-  width: 65px;
-  top: -7px;
-  left: -7px;
-  border: 2px solid var(--mainColor);
-  border-radius: 45px;
-} */
 
 .success-area .success-card ul li h3 {
   font-family: 'Lexend', sans-serif;
   font-size: 18px;
   font-weight: 500;
   color: var(--whiteColor);
+}
+.success-card .image img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
 }
 
 .success-area .success-card ul .link a {
@@ -4972,94 +5024,32 @@ Section Banner Area CSS
 .section-banner.bg-rank {
   background-image: url(../img/banner/week-Ranking-bg.webp);
 }
-
 .section-banner.bg-1 {
   background-image: url(../img/banner/section-image-1.png);
 }
-
-.section-banner.bg-2 {
-  background-image: url(../img/banner/section-image-2.png);
+.section-banner.bg-1.bg-btech {
+  background-image: url(../img/banner/inner-page-bg.webp);
 }
-
-.section-banner.bg-3 {
-  background-image: url(../img/banner/section-image-3.png);
+.section-banner.bg-1.bg-law1 {
+  background-image: url(../img/banner/law-bg.webp);
 }
-
-.section-banner.bg-4 {
-  background-image: url(../img/banner/section-image-4.png);
+.section-banner.bg-1.bg-law2 {
+  background-image: url(../img/banner/law-bg4.webp);
 }
-
-.section-banner.bg-5 {
-  background-image: url(../img/banner/section-image-5.png);
+.section-banner.bg-1.bg-law3 {
+  background-image: url(../img/banner/law-bg5.webp);
 }
-
-.section-banner.bg-6 {
-  background-image: url(../img/banner/section-image-6.png);
+.section-banner.bg-1.schoolEng-tech {
+  background-image: url(../img/banner/banner-btech.webp);
 }
-
-.section-banner.bg-7 {
-  background-image: url(../img/banner/section-image-7.png);
+.section-banner.bg-1.schoolbiological-bg {
+  background-image: url(../img/banner/banner-bt.webp);
 }
-
-.section-banner.bg-8 {
-  background-image: url(../img/banner/section-image-8.png);
+.section-banner.bg-1.bsc-bg {
+  background-image: url(../img/banner/banner-bt.webp);
 }
-
-.section-banner.bg-9 {
-  background-image: url(../img/banner/section-image-9.png);
-}
-
-.section-banner.bg-10 {
-  background-image: url(../img/banner/section-image-10.png);
-}
-
-.section-banner.bg-11 {
-  background-image: url(../img/banner/section-image-11.png);
-}
-
-.section-banner.bg-12 {
-  background-image: url(../img/banner/section-image-12.png);
-}
-
-.section-banner.bg-13 {
-  background-image: url(../img/banner/section-image-13.png);
-}
-
-.section-banner.bg-14 {
-  background-image: url(../img/banner/section-image-14.png);
-  margin-bottom: 80px;
-}
-
-.section-banner.bg-15 {
-  background-image: url(../img/banner/section-image-15.png);
-}
-
-.section-banner.bg-16 {
-  background-image: url(../img/banner/section-image-16.png);
-}
-
-.section-banner.bg-17 {
-  background-image: url(../img/banner/section-image-17.png);
-}
-
-.section-banner.bg-18 {
-  background-image: url(../img/banner/section-image-18.png);
-}
-
-.section-banner.bg-19 {
-  background-image: url(../img/banner/section-image-19.png);
-}
-
-.section-banner.bg-20 {
-  background-image: url(../img/banner/section-image-20.png);
-}
-
-.section-banner.bg-21 {
-  background-image: url(../img/banner/section-image-21.html);
-}
-
-.section-banner.bg-22 {
-  background-image: url(../img/banner/section-image-22.html);
+.section-banner.bg-1.msc-bg {
+  background-image: url(../img/banner/agri-bg1.webp);
 }
 
 .section-banner.bgglobal {
@@ -5068,6 +5058,9 @@ Section Banner Area CSS
 
 .section-banner.bg-crc {
   background-image: url(../img/banner/crc-bg.jpg);
+}
+.section-banner.bg-1.divyangjan {
+  background-image: url(../img/banner/divyangjan.jpg);
 }
 
 
@@ -5468,26 +5461,22 @@ Footer Area CSS
   top: -10px;
 }
 
-.footer-area-3 .footer-top-info .right-content {
-  text-align: end;
-  position: relative;
+/* .footer-area-3 .footer-top-info .right-content {
+
 }
 
 .footer-area-3 .footer-top-info .right-content span {
-  position: absolute;
-  content: '';
-  top: 10px;
-  right: 37%;
-}
+ 
+} */
 
-.footer-area-3 .footer-top-info .right-content ul {
+.footer-area-3 .footer-top-info .right-content ul, .cstm-social-icons, .right-content ul {
   list-style: none;
   padding: 0;
   display: inline-block;
   margin: 0;
 }
 
-.footer-area-3 .footer-top-info .right-content ul li {
+.footer-area-3 .footer-top-info .right-content ul li, .cstm-social-icons li, .right-content ul li {
   display: inline-block;
   margin-right: 10px;
 }
@@ -5502,10 +5491,50 @@ Footer Area CSS
   font-size: 24px;
   border-radius: 10px;
   position: relative;
-  color: var(--whiteColor);
 }
-
+.cstm-social-icons li a, .right-content ul li a {
+  display: block;
+  background-color: var(--secounderyColor);
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  color: var(--blackColor);
+  font-size: 26px;
+  border-radius: 10px;
+  position: relative;
+ 
+}
+.right-content ul li a {
+  display: block;
+  background-color: var(--secounderyColor);
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  color: var(--blackColor);
+  font-size: 22px;
+  border-radius: 10px;
+  position: relative;
+ 
+}
+.cstm-social-icons li a:hover {
+    background-color: var(--blackColor);
+    transition: 0.5s;
+     color: var(--whiteColor);
+}
+.cstm-social-icons li a:hover > i {
+    color: #fff;
+}
 .footer-area-3 .footer-top-info .right-content ul li a i {
+  color: var(--blackColor);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  transition: var(--transition);
+}
+.cstm-social-icons li a i {
   color: var(--blackColor);
   position: absolute;
   left: 0;
@@ -5686,12 +5715,16 @@ Go Top CSS
   height: 370px;
 
 }
+.dropdown-menu.st-academics-research {
+  width: 650px;
+  height: 370px;
+  left: -205px;
+}
 
 .dropdown-menu.st-programs {
-  width: 1310px;
-  height: 550px;
-  left: -150px;
-
+    width: 1150px;
+    height: 550px;
+    left: -250px;
 }
 
 .step-second-menu h4 {
@@ -5796,7 +5829,7 @@ Go Top CSS
 .drop-down-graphic h3 span {
 
   color: var(--mainColor);
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 700;
 }
 
@@ -5997,13 +6030,9 @@ Go Top CSS
 }
 
 @media (max-width: 992px) {
-
-
   .global-sec img {
-
     max-width: 65%;
   }
-
 }
 
 @media (max-width: 775px) {
@@ -6073,4 +6102,69 @@ Go Top CSS
   .uni-image img {
     border-radius: 10px;
   }
+  .course-detailpati {
+    flex-direction: column;
 }
+.course-detailpati {
+    gap: 0;
+}
+.about-courses-rebbon {
+    padding: 15px;
+}
+.courses-details .header-title {
+    padding-bottom: 5px;
+}
+.courses-details .header-title span {
+    font-size: 12px !important;
+    margin-bottom: 0 !important;
+}
+.breadcrumb a, .breadcrumb span {
+    font-size: 12px;
+}
+.breadcrumb {
+    gap: 3px;
+    margin-bottom: 0px;
+}
+.courses-details .header-title .uni-recog li {
+    padding: 5px 10px;
+    border-radius: 15px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.course-widget-area .content {
+    padding: 20px 10px;
+}
+.banner-spacing {
+    padding: 120px 0 !important;
+   
+}
+.section-banner .section-info {
+    bottom: -15px !important;
+    padding: 15px 15px !important;
+    max-width: 320px !important;
+}
+.section-banner .section-info h2, .section-banner .section-info h1 {
+    font-size: 22px !important;
+}
+.ranking-box {
+    flex-direction: column;
+    padding: 20px !important;
+    border-radius: 0px 50px 0px 50px !important;
+}
+
+.faculty-area-2 .heading h2 {
+    font-size: 28px !important;
+    margin-bottom: 20px !important;
+}
+
+}
+ .hide-sec-ribbon {
+    background: var(--secounderyColor);
+    margin-top: -142px;
+    padding: 20px 0px !important;
+    position: relative;
+    z-index: 99999;
+}
+    .widget-area .widget-catagories ul {
+        padding: 0px 4px;
+    }

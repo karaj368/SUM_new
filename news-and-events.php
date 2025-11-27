@@ -15,8 +15,8 @@
                 <div class="section-info">
                     <h1 data-aos="fade-up" data-aos-delay="100"> News & Events </h1>
                          <nav class="breadcrumb" id="breadcrumb">
-            <!-- Breadcrumb links will be inserted here dynamically -->
-            </nav>
+                            <!-- Breadcrumb links will be inserted here dynamically -->
+                        </nav>
                 </div>
             </div>
         </div>
@@ -39,7 +39,6 @@
                                     <div class="content">
                                         <div class="meta">
                                             <ul>
-                                                <li><a href="#">Owen Christ</a></li>
                                                 <li>Mar 17, 2024</li>
                                             </ul>
                                         </div>
@@ -57,7 +56,7 @@
                                     <div class="content">
                                         <div class="meta">
                                             <ul>
-                                                <li><a href="#">Owen Christ</a></li>
+                                                
                                                 <li>Mar 17, 2024</li>
                                             </ul>
                                         </div>
@@ -75,7 +74,7 @@
                                     <div class="content">
                                         <div class="meta">
                                             <ul>
-                                                <li><a href="#">Owen Christ</a></li>
+                                                
                                                 <li>Mar 17, 2024</li>
                                             </ul>
                                         </div>
@@ -93,7 +92,7 @@
                                     <div class="content">
                                         <div class="meta">
                                             <ul>
-                                                <li><a href="#">Owen Christ</a></li>
+                                                
                                                 <li>Mar 17, 2024</li>
                                             </ul>
                                         </div>
@@ -111,7 +110,7 @@
                                     <div class="content">
                                         <div class="meta">
                                             <ul>
-                                                <li><a href="#">Owen Christ</a></li>
+                                                
                                                 <li>Mar 17, 2024</li>
                                             </ul>
                                         </div>
@@ -129,7 +128,7 @@
                                     <div class="content">
                                         <div class="meta">
                                             <ul>
-                                                <li><a href="#">Owen Christ</a></li>
+                                                
                                                 <li>Mar 17, 2024</li>
                                             </ul>
                                         </div>
@@ -147,7 +146,7 @@
                                     <div class="content">
                                         <div class="meta">
                                             <ul>
-                                                <li><a href="#">Owen Christ</a></li>
+                                                
                                                 <li>Mar 17, 2024</li>
                                             </ul>
                                         </div>
@@ -165,7 +164,7 @@
                                     <div class="content">
                                         <div class="meta">
                                             <ul>
-                                                <li><a href="#">Owen Christ</a></li>
+                                                
                                                 <li>Mar 17, 2024</li>
                                             </ul>
                                         </div>

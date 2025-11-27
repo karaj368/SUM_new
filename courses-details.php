@@ -24,12 +24,32 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="courses-details">
-                        <div class="header-title">
+                        <div class="header-title about-courses-rebbon">
                             <nav class="breadcrumb" id="breadcrumb">
                                 <!-- Breadcrumb links will be inserted here dynamically -->
                             </nav>
                             <h1 data-aos="fade-up" data-aos-delay="100">4-Year B.Tech. Program </h1>
-                            <ul>
+                            <ul class="course-detailpati p-0">
+                                <li class="d-flex align-items-center gap-1">
+                                    <i class="fa-solid fa-graduation-cap"></i>
+                                    <p><b>Undergraduate </b>
+                                        
+                                    </p>
+                                </li>
+                                
+
+                                <li class="d-flex align-items-center gap-1">
+                                    <i class="fa-solid fa-calendar-days"></i>
+                                    <p><b> Duration: 4 Years</b></p>
+                                </li>
+                                <li class="d-flex align-items-center gap-1">
+                                    <i class="fa-solid fa-file-pdf"></i>
+                                    <a target="_blank" href="#"><b>Brochure</b> (PDF)</a>
+                                </li>
+
+
+                            </ul>
+                            <ul class="uni-recog">
                                 <li class="bg-success bg-gradient text-white">
                                     <p class="text-white">UGC Recognition</p>
                                 </li>
@@ -60,7 +80,8 @@
                             </div>
                             <div class="content-pra">
                                 <div class="title">
-                                    <h2>Why choose <span style="color:#116446;">Shobhit University</span> for your <span style="color:#116446;">B.Tech.?</span></h2>
+                                    <h2>Why choose <span style="color:#116446;">Shobhit University</span> for your <span
+                                            style="color:#116446;">B.Tech.?</span></h2>
                                 </div>
                                 <p class="fw-bold fs-5" style="color:#f69527;">Legacy</p>
 
@@ -161,19 +182,23 @@
                                         <div class="icon">
                                             <i class='bx bx-check'></i>
                                         </div>
-                                        <p>Students who’ve passed/appeared in intermediate/Higher Secondary (10+2) from any approved board with a minimum of 50% marks in PCM / PCB / Agriculture Science are eligible.</p>
+                                        <p>Students who’ve passed/appeared in intermediate/Higher Secondary (10+2) from
+                                            any approved board with a minimum of 50% marks in PCM / PCB / Agriculture
+                                            Science are eligible.</p>
                                     </li>
                                     <li>
                                         <div class="icon">
                                             <i class='bx bx-check'></i>
                                         </div>
-                                        <p>Candidates appearing in CUET / JEE / UPSEE / SUNET are eligible for admission</p>
+                                        <p>Candidates appearing in CUET / JEE / UPSEE / SUNET are eligible for admission
+                                        </p>
                                     </li>
 
                                 </ul>
-                                
-                                 <a class="default-btn black" href="fee-structure.php"><i class="fa-solid fa-file"></i> Fee Structure 2025</a>
-                             
+
+                                <a class="default-btn black" href="fee-structure.php"><i class="fa-solid fa-file"></i>
+                                    Fee Structure 2025</a>
+
 
                             </div>
                         </div>
@@ -181,34 +206,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="course-widget-area course-detail-rs-form">
-
-
-                        <div class="content">
-                            <h4 class="text-center mb-4">Admission Open For 26th Batch (2025)</h4>
-
-                            <ul>
-                                <li>
-                                    <span>Level</span>
-                                    <p>Graduate</p>
-                                </li>
-                                <li>
-                                    <span>Duration</span>
-                                    <p>21.3 hours</p>
-                                </li>
-                                <li>
-                                    <span>Subject</span>
-                                    <p>Business</p>
-                                </li>
-                                <li>
-                                    <span>Language</span>
-                                    <p>English</p>
-                                </li>
-                            </ul>
-                            <a class="enroll-btn" href="#">Enroll Now</a>
-                            <a class="wish-btn" href="#">Add to wishlist</a>
-                        </div>
-                    </div>
+                    <?php include 'include/npf-formSideBar.php';?>
                 </div>
             </div>
         </div>
@@ -401,26 +399,31 @@
             <div class="btn-row text-center py-5">
                 <a class="default-btn " href="#">Apply Now</a>
             </div>
-            
+
         </div>
     </section>
     <!-- End Placement Opportunities -->
 
- <!-- Start Courses Area -->
+    <!-- Start Courses Area -->
     <section class="courses-area ptb-70">
-      <div class="container text-center">
-        <div class="section-title" data-aos="fade-up" data-aos-delay="100">
-            <h2>Our Leading <span style="color:#116446;"> Recruiters</span></h2>
+        <div class="container text-center">
+            <div class="section-title" data-aos="fade-up" data-aos-delay="100">
+                <h2>Our Leading <span style="color:#116446;"> Recruiters</span></h2>
+            </div>
+            <p class="text-center">At Shobhit University, there is an intensive focus on getting each and every student
+                industry ready. With more than 2000 recruiters visiting our campus every year, our graduates have the
+                support,
+                resources and facilities they need in a constantly changing world and job market.</p>
+            <img src="./assets/img/mentors.webp" width="100%" alt="SU Placements">
+
         </div>
-        <p class="text-center">At Shobhit University, there is an intensive focus on getting each and every student
-          industry ready. With more than 2000 recruiters visiting our campus every year, our graduates have the support,
-          resources and facilities they need in a constantly changing world and job market.</p>
-        <img src="./assets/img/mentors.webp" width="100%" alt="SU Placements">
-        
-      </div>
     </section>
     <!-- End Courses Area -->
 
+    <!-- Students Placements Slider -->
+     <?php include 'include/placementSlider-section.php';?>
+    <!-- End Students Placements Slider -->
+    
 
 
     <?php include 'footer.php';?>
